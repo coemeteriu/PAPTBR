@@ -1,2 +1,2 @@
-# Anil21
-Migracion de Pokémon Añil a LBDS
+# Pokemon Anil PT-BR
+Traduzido e atualizado por Coemeteriu
