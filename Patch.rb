@@ -17,7 +17,7 @@ end
 data = Marshal.load(File.binread(SCRIPTS_PATH))
 
 inject = "PTBR_TXT_PATH = '#{TXT_PATH}'\n" + <<~'RUBY'
-  # === 📢 SISTEMA DE ATUALIZAÇÃO AUTOMÁTICA (MODO FANTASMA) ===
+  # === 📢 SISTEMA DE ATUALIZAÇÃO AUTOMÁTICA (APENAS AVISO - SEM DOWNLOAD) ===
   module PTBR_UPDATER
     URL_VERSAO = "https://raw.githubusercontent.com/coemeteriu/PAPTBR/main/versao.txt"
 
@@ -103,7 +103,7 @@ inject = "PTBR_TXT_PATH = '#{TXT_PATH}'\n" + <<~'RUBY'
   # ==========================================================
 
   module PTBR_TEXT
-    @map = {}; @partials = []; @loaded = false; @cache = {}
+    @map = {}; @clean_map = {}; @partials = []; @loaded = false; @cache = {}
 
     def self.load_map
       return if @loaded
@@ -115,10 +115,12 @@ inject = "PTBR_TXT_PATH = '#{TXT_PATH}'\n" + <<~'RUBY'
           if partes[0] == "SUB"
             @partials << [partes[1].force_encoding("UTF-8"), partes[2].force_encoding("UTF-8")]
           else
-            # 🔨 ARRUMADO: Normaliza o dicionário também!
             key = partes[1].gsub('\n', "\n").gsub('\r', "\r").gsub("…", "...").force_encoding("UTF-8")
             val = partes[2].gsub('\n', "\n").gsub('\r', "\r").gsub("…", "...").force_encoding("UTF-8")
             @map[key] = val
+
+            clean_key = key.gsub(/[\n\r]+/, " ").gsub(/\s+/, " ").strip
+            @clean_map[clean_key] = val
           end
         end
       end
@@ -147,14 +149,19 @@ inject = "PTBR_TXT_PATH = '#{TXT_PATH}'\n" + <<~'RUBY'
 
       res = str.dup
       
-      # 🔨 O DESMASCARADOR DE RETICÊNCIAS (Isso resolve dezenas de fugas!)
       res.gsub!("…", "...")
 
       load_map
+      
       if @map.key?(res)
         res = @map[res]
       elsif @map.key?(res.strip)
         res = res.sub(res.strip, @map[res.strip])
+      else
+        clean_res = res.gsub(/[\n\r]+/, " ").gsub(/\s+/, " ").strip
+        if @clean_map.key?(clean_res)
+          res = @clean_map[clean_res]
+        end
       end
 
       @partials.each do |es, pt|
@@ -163,14 +170,16 @@ inject = "PTBR_TXT_PATH = '#{TXT_PATH}'\n" + <<~'RUBY'
         end
       end
 
-      # === 💥 A GUILHOTINA DE GOLPES E APRENDIZADO ===
+      # === 💥 A GUILHOTINA DE GOLPES (DE VOLTA E MAIS FORTE) ===
+      res.gsub!("{1} ha olvidado cómo utilizar {2} y...", "{1} esqueceu como usar {2} e...")
+      res.gsub!(/\{1\}\s*ha olvidado c[oó]mo utilizar\s*\{2\}\s*y\.\.\./i, "{1} esqueceu como usar {2} e...")
+      res.gsub!(/(.*?)\s*ha olvidado c[oó]mo utilizar\s*(.*?)\s*y\.\.\./i, '\1 esqueceu como usar \2 e...')
       res.gsub!(/ha olvidado c[oó]mo utilizar/i, "esqueceu como usar")
       res.gsub!(/\} y\.\.\./i, "} e...")
       res.gsub!(/1,\s*2\s*y\.\.\./i, "1, 2, e...")
       res.gsub!(/y\.\.\.\s*¡(.*?) aprendi[oó]/i, 'e... ¡\1 aprendeu')
       res.gsub!(/¡(.*?) aprendi[oó]/i, '¡\1 aprendeu')
-      # ========================================
-
+      
       res.gsub!("¡{1} subió al Nivel {2}!", "{1} subiu para o nível {2}!")
       res.gsub!("¡{1} subió al Nível {2}!", "{1} subiu para o nível {2}!")
       res.gsub!(/¡(.*?) subi[oó] al N[ií]vel (.*?)!/i, '\1 subiu para o nível \2!')
@@ -178,6 +187,11 @@ inject = "PTBR_TXT_PATH = '#{TXT_PATH}'\n" + <<~'RUBY'
       res.gsub!(/¡Has obtenido la /i, "Você obteve a ")
       res.gsub!(/¡Has obtenido el /i, "Você obteve o ")
       res.gsub!(/¡Has obtenido /i, "Você obteve ")
+
+      # === ⚔️ DESCRIÇÕES DE ATAQUES FUGITIVOS ===
+      res.gsub!(/Embiste con todo el cuerpo/i, "Investe com todo o corpo")
+      res.gsub!(/Embiste con el cuerpo/i, "Investe com o corpo")
+      # ========================================
 
       res.gsub!(/\bNivel\b/i, "Nível")
       
@@ -223,7 +237,7 @@ inject = "PTBR_TXT_PATH = '#{TXT_PATH}'\n" + <<~'RUBY'
       res.gsub!(/\bDef\.?\s*Esp\.?\b/i, "Def. Esp")
 
       res.gsub!(/Especie compatible con los grupos/i, "Espécie compatível com os grupos")
-      res.gsub!(/Especie compatible com los grupos/i, "Espécie compatível com os grupos")
+      res.gsub!(/Especie compatible con los grupos/i, "Espécie compatível com os grupos")
       res.gsub!(/Especie compatible con el grupo/i, "Espécie compatível com o grupo")
       res.gsub!(/Es compatible con los grupos/i, "É compatível com os grupos")
       res.gsub!(/Es compatible con el grupo/i, "É compatível com o grupo")
@@ -350,14 +364,14 @@ def apply_hooks(code_utf8, inject_utf8)
 
   if code.include?("def pbGetMessage(")
     code.gsub!(/def pbGetMessage\([^)]+\)/) do |m|
-      "#{m}\n  res = MessageTypes.get(type, id) rescue ''\n  return res unless res.is_a?(String)\n  is_loc = (defined?(MessageTypes) && [MessageTypes::MapNames, MessageTypes::RegionNames, MessageTypes::PlaceNames].include?(type)) rescue false\n  return PTBR_TEXT.t(res) if is_loc\n  return (res.length > 12 || res.include?(' ')) ? PTBR_TEXT.t(res) : res"
+      "#{m}\n  res = MessageTypes.get(type, id) rescue ''\n  return res unless res.is_a?(String)\n  return PTBR_TEXT.t(res)"
     end
     changed += 1
   end
 
   if code.include?("def pbGetMessageFromHash(")
     code.gsub!(/def pbGetMessageFromHash\([^)]+\)/) do |m|
-      "#{m}\n  res = MessageTypes.getFromHash(type, id) rescue ''\n  return res unless res.is_a?(String)\n  is_loc = (defined?(MessageTypes) && [MessageTypes::MapNames, MessageTypes::RegionNames, MessageTypes::PlaceNames].include?(type)) rescue false\n  return PTBR_TEXT.t(res) if is_loc\n  return (res.length > 12 || res.include?(' ')) ? PTBR_TEXT.t(res) : res"
+      "#{m}\n  res = MessageTypes.getFromHash(type, id) rescue ''\n  return res unless res.is_a?(String)\n  return PTBR_TEXT.t(res)"
     end
     changed += 1
   end
@@ -390,7 +404,6 @@ def apply_hooks(code_utf8, inject_utf8)
     changed += 1
   end
 
-  # Hook para displays menores (onde as mensagens de level up as vezes se escondem)
   if code.include?("def pbDisplayPaused(")
     code.gsub!(/def\s+pbDisplayPaused\s*\(\s*([a-zA-Z0-9_]+)(.*)/) do |_m|
       "def pbDisplayPaused(#{$1}#{$2}\n  #{$1} = PTBR_TEXT.t(#{$1}) if #{$1}.is_a?(String)"
@@ -428,7 +441,7 @@ data.each_with_index do |entry, i|
 end
 
 File.binwrite(SCRIPTS_PATH, Marshal.dump(data))
-puts "\n--- V44 (A FORTALEZA V20) APLICADA: RETICÊNCIAS FALSAS DESTRUÍDAS! ---"
+puts "\n--- V44 (A FORTALEZA V25) APLICADA: APENAS AVISO DE ATUALIZAÇÃO E GOLPES CORRIGIDOS! ---"
 
 DAT_FILES.each do |f|
   if File.exist?(f)
