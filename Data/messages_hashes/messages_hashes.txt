@@ -2404,7 +2404,7 @@
 0_126|||Aunque existan cientos o miles de Pokémon por todo el mundo, todos provendrán del mismo origen, ¿no?|||Mesmo que existam centenas ou milhares de Pokémon em todo o mundo, todos virão da mesma origem, certo?
 0_126|||No todas las aventuras tienen por qué producirse en cuevas y montañas...|||Nem todas as aventuras precisam acontecer em cavernas e montanhas...
 0_126|||Slugma|||Slugma
-0_126|||Spoink|||Esponja
+0_126|||Spoink|||Spoink
 0_126|||Skarmory|||Skarmory
 0_127|||Veo mucho potencial en ti, y también que deberías mirarte ese lunar.|||Vejo muito potencial em você e também que você deveria olhar para aquela toupeira.
 0_127|||En realidad te espera una larga vida, pero como no hagas algo con ella la vas a desperdiciar. ¡Adelante, ponte a cumplir tus sueños!|||Na realidade, uma vida longa espera por você, mas se você não fizer algo com ela, irá desperdiçá-la. Vá em frente, comece a realizar seus sonhos!
@@ -2517,8 +2517,8 @@
 0_131|||Growlithe|||Growlithe
 0_131|||Pansear|||Pansear
 0_131|||Slugma|||Slugma
-0_131|||Weepinbell|||Campainha chorando
-0_131|||Parasect|||Parasita
+0_131|||Weepinbell|||Weepinbell
+0_131|||Parasect|||Parasect
 0_131|||Dewgong|||Dewgong
 0_131|||Sofoco|||Asfixia
 0_131|||Estallido|||Pop
@@ -2528,9 +2528,9 @@
 0_131|||Hariyama|||Hariyama
 0_131|||Ninetales|||Ninetales
 0_131|||Rapidash|||Rapidash
-0_131|||Arcanine|||Arcano
+0_131|||Arcanine|||Arcanine
 0_131|||Magmortar|||Magmortar
-0_131|||Darmanitan|||Darmanitano
+0_131|||Darmanitan|||Darmanitan
 0_131|||Blaziken|||Blaziken
 0_131|||Desarrollo|||Desenvolvimento
 0_131|||Vendaval|||vendaval
@@ -5947,856 +5947,856 @@
 4|||Mega Darkrai|||Mega Darkrai
 4|||Mega Raichu x|||MegaRaichu x
 4|||Mega Raichu Y|||Mega RaichuY
-5|||Megacuerno|||Mega Chifre
-5|||Al Ataque|||Atacar
-5|||Zumbido|||Zumbido
-5|||Escaramuza|||Primeira Impressão
-5|||Bola de Polen|||Bola de Pólen
-5|||Chupavidas|||Suga-Vidas
-5|||Plancha|||Estocada
-5|||Tijera X|||Tesoura X
-5|||Rayo Señal|||Raio Sinalizador
-5|||Golpe Rastrero|||Golpe Rasteiro
-5|||Ida y Vuelta|||Meia-Volta
-5|||Rodillo de Púas|||Rolo Compressor
-5|||Picadura|||Picada
-5|||Viento Plata|||Vento Prateado
-5|||Aguijón Letal|||Ferrão Letal
-5|||Estoicismo|||Ataque Árduo
-5|||Corte Furia|||Corte Fúria
-5|||Pin Misil|||Míssil de Espinhos
-5|||Doble Ataque|||Agulha Dupla
-5|||Acoso|||Infestação
-5|||A Defender|||Defender
-5|||Auxilio|||Curar
-5|||Polvo Explosivo|||Pó Explosivo
-5|||Danza Aleteo|||Dança das Borboletas
-5|||Polvo Ira|||Pó da Ira
-5|||Telaraña|||Teia de Aranha
-5|||Red Viscosa|||Teia Pegajosa
-5|||Disparo Demora|||Tiro de Teia
-5|||Luminicola|||Luz de Cauda
-5|||Cerco Dimensión|||Fúria do Hiperespaço
-5|||Juego Sucio|||Jogo Sujo
-5|||Furia Candente|||Ira Ardente
-5|||Lariat Oscuro|||Lariat Escuro
-5|||Pulso Noche|||Pulso Noturno
-5|||Triturar|||Mastigada
-5|||Pulso Umbrío|||Pulso Sombrio
-5|||Irreverencia|||Falsa Rendição
-5|||Presa Maxilar|||Trava Mandíbula
-5|||Golpe Mordaza|||Golpe na Garganta
-5|||Golpe Oscuro|||Golpe Maligno
-5|||Desahogo|||Desabafo
-5|||Tajo Umbrío|||Talho Noturno
-5|||Golpe Bajo|||Golpe Baixo
-5|||Desarme|||Desarme
-5|||Buena Baza|||Garantia
-5|||Mordisco|||Mordida
-5|||Giro Vil|||Giro Brutal
-5|||Finta|||Finta
-5|||Ladrón|||Ladrão
-5|||Alarido|||Rosnado
-5|||Vendetta|||Revanche
-5|||Persecución|||Perseguição
-5|||Paliza|||Surra
-5|||Lanzamiento|||Arremesso
-5|||Chulería|||Viagem de Poder
-5|||Castigo|||Punição
-5|||Brecha Negra|||Vazio Sombrio
+5|||Megacuerno|||Megahorn
+5|||Al Ataque|||Attack Order
+5|||Zumbido|||Bug Buzz
+5|||Escaramuza|||First Impression
+5|||Bola de Polen|||Pollen Puff
+5|||Chupavidas|||Leech Life
+5|||Plancha|||Lunge
+5|||Tijera X|||X-Scissor
+5|||Rayo Señal|||Signal Beam
+5|||Golpe Rastrero|||Skitter Smack
+5|||Ida y Vuelta|||U-turn
+5|||Rodillo de Púas|||Steamroller
+5|||Picadura|||Bug Bite
+5|||Viento Plata|||Silver Wind
+5|||Aguijón Letal|||Fell Stinger
+5|||Estoicismo|||Struggle Bug
+5|||Corte Furia|||Fury Cutter
+5|||Pin Misil|||Pin Missile
+5|||Doble Ataque|||Twineedle
+5|||Acoso|||Infestation
+5|||A Defender|||Defend Order
+5|||Auxilio|||Heal Order
+5|||Polvo Explosivo|||Powder
+5|||Danza Aleteo|||Quiver Dance
+5|||Polvo Ira|||Rage Powder
+5|||Telaraña|||Spider Web
+5|||Red Viscosa|||Sticky Web
+5|||Disparo Demora|||String Shot
+5|||Luminicola|||Tailglow
+5|||Cerco Dimensión|||Hyperspace Fury
+5|||Juego Sucio|||Foul Play
+5|||Furia Candente|||Fiery Wrath
+5|||Lariat Oscuro|||Darkest Lariat
+5|||Pulso Noche|||Night Daze
+5|||Triturar|||Crunch
+5|||Pulso Umbrío|||Dark Pulse
+5|||Irreverencia|||False Surrender
+5|||Presa Maxilar|||Jaw Lock
+5|||Golpe Mordaza|||Throat Chop
+5|||Golpe Oscuro|||Wicked Blow
+5|||Desahogo|||Lash Out
+5|||Tajo Umbrío|||Night Slash
+5|||Golpe Bajo|||Sucker Punch
+5|||Desarme|||Knock Off
+5|||Buena Baza|||Assurance
+5|||Mordisco|||Bite
+5|||Giro Vil|||Brutal Swing
+5|||Finta|||Feint Attack
+5|||Ladrón|||Thief
+5|||Alarido|||Snarl
+5|||Vendetta|||Payback
+5|||Persecución|||Pursuit
+5|||Paliza|||Beat Up
+5|||Lanzamiento|||Fling
+5|||Chulería|||Power Trip
+5|||Castigo|||Punishment
+5|||Brecha Negra|||Dark Void
 5|||Embargo|||Embargo
-5|||Llanto Falso|||Lágrimas Falsas
-5|||Camelo|||Lisonja
-5|||Afilagarras|||Afiar Garras
-5|||Legado|||Lembrança
-5|||Maquinación|||Maquinação
-5|||Obstrucción|||Obstrução
-5|||Última Palabra|||Última Palavra
-5|||Último Lugar|||Suprimir
-5|||Robo|||Roubo
-5|||Trapicheo|||Troca-Troca
-5|||Mofa|||Provocação
-5|||Reversión|||Reviravolta
-5|||Tormento|||Tormento
-5|||Rayo Infinito|||Raio Infinito
-5|||Dracoenergía|||Energia de Dragão
-5|||Distorsión|||Rugido do Tempo
-5|||Cometa Draco|||Meteoro de Dragão
-5|||Enfado|||Ultraje
-5|||Fragor Escamas|||Escamas Vibrantes
-5|||Núcleo Castigo|||Executor do Núcleo
-5|||Carga Dragón|||Investida do Dragão
-5|||Cañón Dinamax|||Canhão Dinamax
-5|||Corte Vacío|||Fenda Espacial
-5|||Martillo Dragón|||Martelo do Dragão
-5|||Pulso Dragón|||Pulso do Dragão
-5|||Garra Dragón|||Garra do Dragão
-5|||Vasto Impacto|||Giro Devastador
-5|||Dragoaliento|||Sopro do Dragão
-5|||Cola Dragón|||Cauda do Dragão
-5|||Dracoflechas|||Dardos de Dragão
-5|||Golpe Bis|||Golpe Duplo
-5|||Ciclón|||Ciclone
-5|||Ráfaga Escamas|||Rajada de Escamas
-5|||Furia Dragón|||Fúria do Dragão
-5|||Estruendo Escama|||Alma Ruidosa
-5|||Danza Dragón|||Dança do Dragão
-5|||Ataque Fulgor|||Raio Fulminante
-5|||Placaje Eléctrico|||Investida Volt
-5|||Electrocañón|||Canhão Zap
-5|||Rueda Aural|||Roda Áurica
-5|||Trueno|||Trovão
-5|||Rayo Fusión|||Raio de Fusão
-5|||Puños Plasma|||Socos de Plasma
-5|||Rayo|||Relâmpago
-5|||Voltio Cruel|||Carga Selvagem
-5|||Electropico|||Bico Trovejante
-5|||Chispazo|||Descarga
+5|||Llanto Falso|||Fake Tears
+5|||Camelo|||Flatter
+5|||Afilagarras|||Hone Claws
+5|||Legado|||Memento
+5|||Maquinación|||Nasty Plot
+5|||Obstrucción|||Obstruct
+5|||Última Palabra|||Parting Shot
+5|||Último Lugar|||Quash
+5|||Robo|||Snatch
+5|||Trapicheo|||Switcheroo
+5|||Mofa|||Taunt
+5|||Reversión|||Topsy-Turvy
+5|||Tormento|||Torment
+5|||Rayo Infinito|||Eternabeam
+5|||Dracoenergía|||Dragon Energy
+5|||Distorsión|||Roar of Time
+5|||Cometa Draco|||Draco Meteor
+5|||Enfado|||Outrage
+5|||Fragor Escamas|||Clanging Scales
+5|||Núcleo Castigo|||Core Enforcer
+5|||Carga Dragón|||Dragon Rush
+5|||Cañón Dinamax|||Dynamax Cannon
+5|||Corte Vacío|||Spacial Rend
+5|||Martillo Dragón|||Dragon Hammer
+5|||Pulso Dragón|||Dragon Pulse
+5|||Garra Dragón|||Dragon Claw
+5|||Vasto Impacto|||Breaking Swipe
+5|||Dragoaliento|||Dragon Breath
+5|||Cola Dragón|||Dragon Tail
+5|||Dracoflechas|||Dragon Darts
+5|||Golpe Bis|||Dual Chop
+5|||Ciclón|||Twister
+5|||Ráfaga Escamas|||Scale Shot
+5|||Furia Dragón|||Dragon Rage
+5|||Estruendo Escama|||Clangorous Soul
+5|||Danza Dragón|||Dragon Dance
+5|||Ataque Fulgor|||Bolt Strike
+5|||Placaje Eléctrico|||Volttackle
+5|||Electrocañón|||Zap Cannon
+5|||Rueda Aural|||Aura Wheel
+5|||Trueno|||Thunder
+5|||Rayo Fusión|||Fusion Bolt
+5|||Puños Plasma|||Plasma Fists
+5|||Rayo|||Thunderbolt
+5|||Voltio Cruel|||Wild Charge
+5|||Electropico|||Bolt Beak
+5|||Chispazo|||Discharge
 5|||Amplificador|||Overdrive
-5|||Electrojaula|||Jaula de Trovão
-5|||Electropunzada|||Choque Agudo
-5|||Puño Trueno|||Soco de Trovão
-5|||Alto Voltaje|||Alta Voltagem
-5|||Voltiocambio|||Troca Volt
-5|||Carga Parábola|||Carga Parabólica
-5|||Chispa|||Faísca
-5|||Colmillo Rayo|||Presa do Trovão
-5|||Onda Voltio|||Onda de Choque
-5|||Electrotela|||Teia Elétrica
-5|||Rayo Carga|||Raio Carregado
-5|||Impactrueno|||Choque do Trovão
-5|||Moflete Estático|||Carinho Estático
-5|||Bola Voltio|||Eletrobola
-5|||Carga|||Carga
-5|||Onda Anómala|||Onda Estranha
-5|||Campo Eléctrico|||Terreno Elétrico
-5|||Electrificación|||Eletrificação
-5|||Cortina Plasma|||Cortina de Plasma
-5|||Levitón|||Levitação Magnética
-5|||Aura Magnética|||Magnetismo
-5|||Onda Trueno|||Onda de Trovão
-5|||Luz Aniquiladora|||Luz da Ruína
-5|||Cañón Floral|||Canhão de Flores
-5|||Bruma Explosiva|||Explosão Mística
-5|||Fuerza Lunar|||Explosão Lunar
-5|||Carantoña|||Carinho
-5|||Cautivapor|||Vapor Cativante
-5|||Brillo Mágico|||Brilho Mágico
-5|||Choque Anímico|||Choque Anímico
-5|||Beso Drenaje|||Beijo Drenante
-5|||Voz Cautivadora|||Voz Desarmante
-5|||Viento Feérico|||Vento de Fada
-5|||Furia Natural|||Fúria da Natureza
-5|||Niebla Aromática|||Névoa Aromática
-5|||Ojitos Tiernos|||Olhos de Boneca
-5|||Encanto|||Charme
-5|||Truco Defensa|||Defesa Fada
-5|||Decoración|||Decoração
-5|||Cerrojo Feérico|||Bloqueio de Fada
-5|||Cura Floral|||Cura Floral
-5|||Defensa Floral|||Defesa Floral
-5|||Geocontrol|||Geomancia
-5|||Campo de Niebla|||Terreno Místico
-5|||Luz Lunar|||Luar
-5|||Beso Dulce|||Beijo Doce
-5|||Puño Certero|||Soco Focalizado
-5|||Asalto Estelar|||Ataque Meteoro
-5|||Patada Salto Alta|||Chute Pulo Alto
-5|||A Bocajarro|||Combate Próximo
-5|||Onda Certera|||Explosão Focalizada
-5|||Fuerza Bruta|||Superpoder
-5|||Tajo Cruzado|||Golpe Cruzado
-5|||Puño Dinámico|||Soco Dinâmico
-5|||Plancha Voladora|||Prensa Voadora
-5|||Machada|||Braço de Martelo
-5|||Patada Salto|||Chute de Pulo
-5|||Espada Santa|||Espada Sagrada
-5|||Patada Relámpago|||Chute Relâmpago
-5|||Sable Místico|||Espada Mística
-5|||Gancho Alto|||Gancho Alto
-5|||Esfera Aural|||Esfera de Aura
-5|||Plancha Corporal|||Prensa Corporal
-5|||Sumisión|||Submissão
-5|||Demolición|||Quebra-Telha
-5|||Puño Drenaje|||Soco Drenante
-5|||Llave Vital|||Arremesso Vital
-5|||Espabila|||Despertar
-5|||Puntapié|||Rasteira
-5|||Llave Giro|||Arremesso Círculo
-5|||Palmeo|||Ataque de Palma
-5|||Desquite|||Vingança
-5|||Patada Giro|||Chute Rotativo
-5|||Llave Corsé|||Arremesso Tempestade
-5|||Golpe Kárate|||Golpe de Karatê
-5|||Ultrapuño|||Soco Rápido
-5|||Puño Incremento|||Soco de Aumento
-5|||Golpe Roca|||Quebra-Rocha
-5|||Onda Vacío|||Onda de Vácuo
-5|||Doble Patada|||Chute Duplo
-5|||Empujón|||Empurrão
-5|||Triple Patada|||Chute Triplo
-5|||Contraataque|||Contra-Atacar
-5|||Sacrificio|||Submissão
-5|||Patada Baja|||Chute Rasteiro
-5|||Inversión|||Reversão
-5|||Sísmico|||Arremesso Sísmico
-5|||Corpulencia|||Aumento de Massa
-5|||Motivación|||Motivação
-5|||Detección|||Detectar
-5|||Escudo Tatami|||Escudo Tatame
-5|||Bastión Final|||Bastão Final
-5|||Octopresa|||Trava de Polvo
-5|||Anticipo|||Guarda Rápida
-5|||V de Fuego|||Criação V
-5|||Anillo Ígneo|||Queimadura Explosiva
-5|||Estallido|||Erupção
-5|||Cabeza Sorpresa|||Cabeça Surpresa
-5|||Coraza Trampa|||Armadilha de Concha
-5|||Llama Azul|||Chama Azul
-5|||Llama Final|||Fogo Místico
-5|||Sofoco|||Superaquecimento
-5|||Envite Ígneo|||Blitz de Labaredas
-5|||Balón Ígneo|||Bola Piro
-5|||Llamarada|||Rajada de Fogo
-5|||Llama Fusión|||Chama de Fusão
+5|||Electrojaula|||Thunder Cage
+5|||Electropunzada|||Zing Zap
+5|||Puño Trueno|||Thunder Punch
+5|||Alto Voltaje|||Rising Voltage
+5|||Voltiocambio|||Volt Switch
+5|||Carga Parábola|||Parabolic Charge
+5|||Chispa|||Spark
+5|||Colmillo Rayo|||Thunder Fang
+5|||Onda Voltio|||Shock Wave
+5|||Electrotela|||Electroweb
+5|||Rayo Carga|||Charge Beam
+5|||Impactrueno|||Thunder Shock
+5|||Moflete Estático|||Nuzzle
+5|||Bola Voltio|||Electro Ball
+5|||Carga|||Charge
+5|||Onda Anómala|||Eerie Impulse
+5|||Campo Eléctrico|||Electric Terrain
+5|||Electrificación|||Electrify
+5|||Cortina Plasma|||Ion Deluge
+5|||Levitón|||Magnet Rise
+5|||Aura Magnética|||Magnetic Flux
+5|||Onda Trueno|||Thunder Wave
+5|||Luz Aniquiladora|||Light of Ruin
+5|||Cañón Floral|||Fleur Cannon
+5|||Bruma Explosiva|||Misty Explosion
+5|||Fuerza Lunar|||Moonblast
+5|||Carantoña|||Play Rough
+5|||Cautivapor|||Strange Steam
+5|||Brillo Mágico|||Dazzling Gleam
+5|||Choque Anímico|||Spirit Break
+5|||Beso Drenaje|||Draining Kiss
+5|||Voz Cautivadora|||Disarming Voice
+5|||Viento Feérico|||Fairy Wind
+5|||Furia Natural|||Nature’s Madness
+5|||Niebla Aromática|||Aromatic Mist
+5|||Ojitos Tiernos|||Baby-Doll Eyes
+5|||Encanto|||Charm
+5|||Truco Defensa|||Crafty Shield
+5|||Decoración|||Decorate
+5|||Cerrojo Feérico|||Fairy Lock
+5|||Cura Floral|||Floral Healing
+5|||Defensa Floral|||Flower Shield
+5|||Geocontrol|||Geomancy
+5|||Campo de Niebla|||Misty Terrain
+5|||Luz Lunar|||Moonlight
+5|||Beso Dulce|||Sweet Kiss
+5|||Puño Certero|||Focus Punch
+5|||Asalto Estelar|||Meteor Assault
+5|||Patada Salto Alta|||Highjumpkick
+5|||A Bocajarro|||Close Combat
+5|||Onda Certera|||Focus Blast
+5|||Fuerza Bruta|||Superpower
+5|||Tajo Cruzado|||Cross Chop
+5|||Puño Dinámico|||Dynamic Punch
+5|||Plancha Voladora|||Flying Press
+5|||Machada|||Hammer Arm
+5|||Patada Salto|||Jump Kick
+5|||Espada Santa|||Sacred Sword
+5|||Patada Relámpago|||Thunderous Kick
+5|||Sable Místico|||Secret Sword
+5|||Gancho Alto|||Sky Uppercut
+5|||Esfera Aural|||Aura Sphere
+5|||Plancha Corporal|||Body Press
+5|||Sumisión|||Submission
+5|||Demolición|||Brick Break
+5|||Puño Drenaje|||Drain Punch
+5|||Llave Vital|||Vitalthrow
+5|||Espabila|||Wake-Up Slap
+5|||Puntapié|||Low Sweep
+5|||Llave Giro|||Circle Throw
+5|||Palmeo|||Force Palm
+5|||Desquite|||Revenge
+5|||Patada Giro|||Rolling Kick
+5|||Llave Corsé|||Storm Throw
+5|||Golpe Kárate|||Karate Chop
+5|||Ultrapuño|||Mach Punch
+5|||Puño Incremento|||Power-Up Punch
+5|||Golpe Roca|||Rock Smash
+5|||Onda Vacío|||Vacuum Wave
+5|||Doble Patada|||Double Kick
+5|||Empujón|||Arm Thrust
+5|||Triple Patada|||Triple Kick
+5|||Contraataque|||Counter
+5|||Sacrificio|||Final Gambit
+5|||Patada Baja|||Low Kick
+5|||Inversión|||Reversal
+5|||Sísmico|||Seismic Toss
+5|||Corpulencia|||Bulk Up
+5|||Motivación|||Coaching
+5|||Detección|||Detect
+5|||Escudo Tatami|||Mat Block
+5|||Bastión Final|||No Retreat
+5|||Octopresa|||Octolock
+5|||Anticipo|||Quick Guard
+5|||V de Fuego|||V-create
+5|||Anillo Ígneo|||Blast Burn
+5|||Estallido|||Eruption
+5|||Cabeza Sorpresa|||Mind Blown
+5|||Coraza Trampa|||Shell Trap
+5|||Llama Azul|||Blue Flare
+5|||Llama Final|||Burn Up
+5|||Sofoco|||Overheat
+5|||Envite Ígneo|||Flare Blitz
+5|||Balón Ígneo|||Pyro Ball
+5|||Llamarada|||Fire Blast
+5|||Llama Fusión|||Fusion Flare
 5|||Infierno|||Inferno
-5|||Lluvia Ígnea|||Chuva de Fogo
-5|||Fuego Sagrado|||Fogo Sagrado
-5|||Bomba Ígnea|||Bomba de Fogo
-5|||Onda Ígnea|||Onda de Calor
-5|||Lanzallamas|||Lança-Chamas
-5|||Patada Ígnea|||Chute Flamejante
-5|||Danza Llama|||Dança de Fogo
-5|||Látigo Ígneo|||Chicote de Fogo
-5|||Voto Fuego|||Voto de Fogo
-5|||Humareda|||Erupção de Fumaça
-5|||Puño Fuego|||Soco de Fogo
-5|||Llama Embrujada|||Fogo Místico
-5|||Envidia ardiente|||Inveja Ardente
-5|||Pirotecnia|||Pirotecnia
-5|||Colmillo Ígneo|||Presa de Fogo
-5|||Rueda Fuego|||Roda de Fogo
-5|||Calcinación|||Incineração
-5|||Nitrocarga|||Carga de Chamas
-5|||Ascuas|||Brasa
-5|||Giro Fuego|||Giro de Fogo
-5|||Golpe Calor|||Golpe de Calor
-5|||Día Soleado|||Dia Ensolarado
-5|||Fuego Fatuo|||Fogo Fátuo
-5|||Ataque Aéreo|||Ataque Aéreo
-5|||Pájaro Osado|||Pássaro Bravo
-5|||Ascenso Draco|||Ascensão do Dragão
-5|||Vendaval|||Vendaval
-5|||Aerochorro|||Explosão Aérea
-5|||Pico Cañón|||Bico Canhão
-5|||Vuelo|||Voar
-5|||Bote|||Salto
-5|||Pico Taladro|||Bico Broca
-5|||Ala Mortífera|||Asa do Abate
-5|||Tajo Aéreo|||Talho Aéreo
-5|||Cháchara|||Tagarelice
-5|||Golpe Aéreo|||Ás dos Ares
-5|||Aire Afilado|||Ar Cortante
-5|||Picoteo|||Bicar
-5|||Caída Libre|||Queda Livre
-5|||Ataque Ala|||Ataque de Asa
-5|||Acróbata|||Acrobacia
-5|||Ala Bis|||Batida Dupla
-5|||Tornado|||Ventania
-5|||Picotazo|||Bicada
-5|||Despejar|||Desnevoar
-5|||Danza Pluma|||Dança de Penas
-5|||Espejo|||Espejo
-5|||Respiro|||Poleiro
-5|||Viento Afín|||Vento de Cauda
-5|||Orbes Espectro|||Barragem Astral
-5|||Golpe Umbrío|||Força Fantasma
+5|||Lluvia Ígnea|||Magma Storm
+5|||Fuego Sagrado|||Sacred Fire
+5|||Bomba Ígnea|||Searing Shot
+5|||Onda Ígnea|||Heat Wave
+5|||Lanzallamas|||Flamethrower
+5|||Patada Ígnea|||Blaze Kick
+5|||Danza Llama|||Fiery Dance
+5|||Látigo Ígneo|||Fire Lash
+5|||Voto Fuego|||Fire Pledge
+5|||Humareda|||Lava Plume
+5|||Puño Fuego|||Fire Punch
+5|||Llama Embrujada|||Mystical Fire
+5|||Envidia ardiente|||Burning Jealousy
+5|||Pirotecnia|||Flame Burst
+5|||Colmillo Ígneo|||Fire Fang
+5|||Rueda Fuego|||Flame Wheel
+5|||Calcinación|||Incinerate
+5|||Nitrocarga|||Flame Charge
+5|||Ascuas|||Ember
+5|||Giro Fuego|||Fire Spin
+5|||Golpe Calor|||Heat Crash
+5|||Día Soleado|||Sunny Day
+5|||Fuego Fatuo|||Will-O-Wisp
+5|||Ataque Aéreo|||Sky Attack
+5|||Pájaro Osado|||Brave Bird
+5|||Ascenso Draco|||Dragon Ascent
+5|||Vendaval|||Hurricane
+5|||Aerochorro|||Aeroblast
+5|||Pico Cañón|||Beak Blast
+5|||Vuelo|||Fly
+5|||Bote|||Bounce
+5|||Pico Taladro|||Drill Peck
+5|||Ala Mortífera|||Oblivion Wing
+5|||Tajo Aéreo|||Air Slash
+5|||Cháchara|||Chatter
+5|||Golpe Aéreo|||Aerial Ace
+5|||Aire Afilado|||Air Cutter
+5|||Picoteo|||Pluck
+5|||Caída Libre|||Sky Drop
+5|||Ataque Ala|||Wing Attack
+5|||Acróbata|||Acrobatics
+5|||Ala Bis|||Dual Wingbeat
+5|||Tornado|||Gust
+5|||Picotazo|||Peck
+5|||Despejar|||Defog
+5|||Danza Pluma|||Feather Dance
+5|||Espejo|||Mirror Move
+5|||Respiro|||Roost
+5|||Viento Afín|||Tailwind
+5|||Orbes Espectro|||Astral Barrage
+5|||Golpe Umbrío|||Shadow Force
 5|||Poltergeist|||Poltergeist
-5|||Rayo Umbrío|||Raio da Lua Sombria
-5|||Golpe Fantasma|||Golpe Fantasma
-5|||Robasombra|||Ladrão Espectral
-5|||Hueso Sombrío|||Osso Sombrio
-5|||Bola Sombra|||Bola Sombria
-5|||Puntada Sombría|||Costura Sombria
-5|||Garra Umbría|||Garra Sombria
-5|||Infortunio|||Infortúnio
-5|||Viento Aciago|||Vento Ominoso
-5|||Puño Sombra|||Soco Sombrio
-5|||Sombra Vil|||Sombra Furtiva
-5|||Impresionar|||Assustar
-5|||Lengüetazo|||Lambida
-5|||Tinieblas|||Sombra Noturna
-5|||Rayo Confuso|||Raio Confuso
-5|||Maldición|||Maldição
-5|||Mismo Destino|||Laço do Destino
-5|||Rabia|||Rancor
-5|||Pesadilla|||Pesadelo
-5|||Rencor|||Rancor
-5|||Halloween|||Halloween
-5|||Planta Feroz|||Planta Feroz
-5|||Lluevehojas|||Tempestade de Folhas
-5|||Cuchilla Solar|||Lâmina Solar
-5|||Danza Pétalo|||Dança das Pétalas
-5|||Latigazo|||Chicote Poderoso
-5|||Fulgor Semilla|||Clarão de Semente
-5|||Rayo Solar|||Raio Solar
-5|||Mazazo|||Martelo de Madeira
-5|||Energibola|||Esfera de Energia
-5|||Hoja Aguda|||Lâmina de Folha
-5|||Tormenta Floral|||Nevasca de Pétalas
-5|||Ácido Málico|||Ácido Málico
-5|||Batería Asalto|||Batida de Tambor
-5|||Voto Planta|||Voto de Grama
-5|||Fuerza G|||Maçã da Gravidade
-5|||Bomba Germen|||Bomba de Semente
-5|||Gigadrenado|||Gigadreno
-5|||Asta Drenaje|||Chifre Drenante
-5|||Fitoimpulso|||Fitoimpulso
-5|||Patada Tropical|||Chute Tropical
-5|||Ciclón de Hojas|||Tornado de Folhas
-5|||Hoja Mágica|||Folha Mágica
-5|||Brazo Pincho|||Braço de Espinhos
-5|||Hoja Afilada|||Folha Navalha
-5|||Punzada Rama|||Cutucada de Galho
-5|||Follaje|||Folhagem
-5|||Megaagotar|||Mega Dreno
-5|||Cepo|||Esmagamento de Vinha
-5|||Semilladora|||Rajada de Sementes
-5|||Absorber|||Absorver
-5|||Hierba Lazo|||Nó de Grama
-5|||Aromaterapia|||Aromaterapia
-5|||Rizo Algodón|||Guarda de Algodão
-5|||Esporagodón|||Esporo de Algodão
-5|||Condena Silvana|||Condenação Silvestre
-5|||Silbato|||Assobio de Grama
-5|||Campo de Hierba|||Terreno de Grama
-5|||Arraigo|||Enraizamento
-5|||Cura Selvática|||Cura Selvática
-5|||Drenadoras|||Semente Sanguessuga
-5|||Somnífero|||Pó do Sono
-5|||Barrera Espinosa|||Escudo de Espinhos
-5|||Espora|||Esporo
-5|||Absorbefuerza|||Absorver Força
-5|||Paralizador|||Esporo Paralisante
-5|||Fotosíntesis|||Síntese
-5|||Abatidoras|||Pé na Cova
-5|||Filo del Abismo|||Lâminas do Precipício
-5|||Terremoto|||Terremoto
-5|||Fuerza Equina|||Potência Equina
-5|||Tierra Viva|||Poder da Terra
-5|||Fuerza Telúrica|||Força Telúrica
-5|||Mil Flechas|||Mil Flechas
-5|||Mil Temblores|||Mil Tremores
-5|||Excavar|||Cavar
-5|||Taladradora|||Furação
-5|||Pataleta|||Piti
-5|||Arenas Ardientes|||Areia Escaldante
-5|||Hueso Palo|||Clava de Osso
-5|||Bomba Fango|||Bomba de Lama
-5|||Terratemblor|||Terraplanagem
-5|||Disparo Lodo|||Tiro de Lama
-5|||Huesomerang|||Ossomerangue
-5|||Bucle Arena|||Tumba de Areia
-5|||Ataque Óseo|||Osso Veloz
-5|||Bofetón Lodo|||Tapa de Lama
-5|||Fisura|||Fissura
+5|||Rayo Umbrío|||Moongeist Beam
+5|||Golpe Fantasma|||Phantom Force
+5|||Robasombra|||Spectral Thief
+5|||Hueso Sombrío|||Shadow Bone
+5|||Bola Sombra|||Shadow Ball
+5|||Puntada Sombría|||Spirit Shackle
+5|||Garra Umbría|||Shadow Claw
+5|||Infortunio|||Hex
+5|||Viento Aciago|||Ominous Wind
+5|||Puño Sombra|||Shadow Punch
+5|||Sombra Vil|||Shadow Sneak
+5|||Impresionar|||Astonish
+5|||Lengüetazo|||Lick
+5|||Tinieblas|||Night Shade
+5|||Rayo Confuso|||Confuse Ray
+5|||Maldición|||Curse
+5|||Mismo Destino|||Destiny Bond
+5|||Rabia|||Grudge
+5|||Pesadilla|||Nightmare
+5|||Rencor|||Spite
+5|||Halloween|||Trick-or-Treat
+5|||Planta Feroz|||Frenzy Plant
+5|||Lluevehojas|||Leaf Storm
+5|||Cuchilla Solar|||Solar Blade
+5|||Danza Pétalo|||Petal Dance
+5|||Latigazo|||Power Whip
+5|||Fulgor Semilla|||Seedflare
+5|||Rayo Solar|||Solar Beam
+5|||Mazazo|||Wood Hammer
+5|||Energibola|||Energy Ball
+5|||Hoja Aguda|||Leaf Blade
+5|||Tormenta Floral|||Petal Blizzard
+5|||Ácido Málico|||Apple Acid
+5|||Batería Asalto|||Drum Beating
+5|||Voto Planta|||Grass Pledge
+5|||Fuerza G|||Grav Apple
+5|||Bomba Germen|||Seed Bomb
+5|||Gigadrenado|||Giga Drain
+5|||Asta Drenaje|||Horn Leech
+5|||Fitoimpulso|||Grassy Glide
+5|||Patada Tropical|||Trop Kick
+5|||Ciclón de Hojas|||Leaf Tornado
+5|||Hoja Mágica|||Magical Leaf
+5|||Brazo Pincho|||Needle Arm
+5|||Hoja Afilada|||Razor Leaf
+5|||Punzada Rama|||Branch Poke
+5|||Follaje|||Leafage
+5|||Megaagotar|||Mega Drain
+5|||Cepo|||Snap Trap
+5|||Semilladora|||Bullet Seed
+5|||Absorber|||Absorb
+5|||Hierba Lazo|||Grass Knot
+5|||Aromaterapia|||Aromatherapy
+5|||Rizo Algodón|||Cotton Guard
+5|||Esporagodón|||Cotton Spore
+5|||Condena Silvana|||Forest’s Curse
+5|||Silbato|||Grass Whistle
+5|||Campo de Hierba|||Grassy Terrain
+5|||Arraigo|||Ingrain
+5|||Cura Selvática|||Jungle Healing
+5|||Drenadoras|||Leech Seed
+5|||Somnífero|||Sleep Powder
+5|||Barrera Espinosa|||Spiky Shield
+5|||Espora|||Spore
+5|||Absorbefuerza|||Strength Sap
+5|||Paralizador|||Stun Spore
+5|||Fotosíntesis|||Synthesis
+5|||Abatidoras|||Worry Seed
+5|||Filo del Abismo|||Precipice Blades
+5|||Terremoto|||Earthquake
+5|||Fuerza Equina|||High Horsepower
+5|||Tierra Viva|||Earth Power
+5|||Fuerza Telúrica|||Land’s Wrath
+5|||Mil Flechas|||Thousand Arrows
+5|||Mil Temblores|||Thousand Waves
+5|||Excavar|||Dig
+5|||Taladradora|||Drill Run
+5|||Pataleta|||Stomping Tantrum
+5|||Arenas Ardientes|||Scorching Sands
+5|||Hueso Palo|||Bone Club
+5|||Bomba Fango|||Mud Bomb
+5|||Terratemblor|||Bulldoze
+5|||Disparo Lodo|||Mud Shot
+5|||Huesomerang|||Bonemerang
+5|||Bucle Arena|||Sand Tomb
+5|||Ataque Óseo|||Bone Rush
+5|||Bofetón Lodo|||Mud-Slap
+5|||Fisura|||Fissure
 5|||Magnitud|||Magnitude
-5|||Chapoteo Lodo|||Brincar na Lama
-5|||Fertilizante|||Fertilizante
-5|||Ataque Arena|||Ataque de Areia
-5|||Recogearena|||Coleta de Areia
-5|||Púas|||Espinhos
-5|||Rayo Gélido|||Raio Congelante
-5|||Llama Gélida|||Chama Congelante
-5|||Lanza Glacial|||Lança Glacial
-5|||Ventisca|||Nevasca
-5|||Martillo Hielo|||Martelo de Gelo
-5|||Rayo Hielo|||Raio de Gelo
-5|||Chuzos|||Queda de Gelo
-5|||Puño Hielo|||Soco de Gelo
-5|||Liofilización|||Liofilização
-5|||Rayo Aurora|||Raio Aurora
-5|||Mundo Gélido|||Mundo Congelado
-5|||Colmillo Hielo|||Presa de Gelo
+5|||Chapoteo Lodo|||Mud Sport
+5|||Fertilizante|||Rototiller
+5|||Ataque Arena|||Sand Attack
+5|||Recogearena|||Shore Up
+5|||Púas|||Spikes
+5|||Rayo Gélido|||Freeze Shock
+5|||Llama Gélida|||Ice Burn
+5|||Lanza Glacial|||Glacial Lance
+5|||Ventisca|||Blizzard
+5|||Martillo Hielo|||Ice Hammer
+5|||Rayo Hielo|||Ice Beam
+5|||Chuzos|||Icicle Crash
+5|||Puño Hielo|||Ice Punch
+5|||Liofilización|||Freeze-Dry
+5|||Rayo Aurora|||Aurora Beam
+5|||Mundo Gélido|||Glaciate
+5|||Colmillo Hielo|||Ice Fang
 5|||Alud|||Avalanche
-5|||Vaho Gélido|||Sopro Congelante
-5|||Viento Hielo|||Vento Gelado
-5|||Esquirla Helada|||Caco de Gelo
-5|||Nieve Polvo|||Neve em Pó
-5|||Bola Hielo|||Bola de Gelo
-5|||Carámbano|||Lança de Gelo
-5|||Triple Axel|||Axel Triplo
-5|||Frío Polar|||Frio Polar
-5|||Velo Aurora|||Véu de Aurora
-5|||Granizo|||Granizo
-5|||Niebla|||Névoa
-5|||Neblina|||Neblina
-5|||Explosion|||Explosão
-5|||Autodestrucción|||Autodestruição
-5|||Gigaimpacto|||Giga Impacto
-5|||Hiperrayo|||Hiper Raio
-5|||Estruendo|||Estrondo
-5|||Última Baza|||Último Recurso
-5|||Cabezazo|||Cabeçada
-5|||Doble Filo|||Faca de Dois Gumes
-5|||Ariete|||Aríete
-5|||Megapatada|||Mega Chute
-5|||Multiataque|||Multiataque
-5|||Tecno Shock|||Tecno Choque
-5|||Saña|||Ira
-5|||Bomba Huevo|||Bomba de Ovo
-5|||Sentencia|||Julgamento
-5|||Vozarrón|||Hiper Voz
-5|||Danza Despertar|||Dança do Despertar
-5|||Treparrocas|||Escalar Rochas
-5|||Derribo|||Derrubada
-5|||Alboroto|||Alvoroço
-5|||Golpe Cuerpo|||Prensa Corporal
-5|||Velocidad Extrema|||Velocidade Extrema
-5|||Hipercolmillo|||Hiper Presa
-5|||Megapuño|||Mega Soco
-5|||Viento Cortante|||Vento Navalha
-5|||Atizar|||Pancada
-5|||Fuerza|||Força
-5|||Triataque|||Tri-Ataque
-5|||Garra Brutal|||Garra Esmagadora
-5|||Canto Arcaico|||Canto Arcaico
-5|||Guardia Baja|||Quebra de Guarda
-5|||Puño Mareo|||Soco Tonto
-5|||Fachada|||Fachada
-5|||Golpe Cabeza|||Cabeçada
-5|||Represalia|||Retaliação
-5|||Daño Secreto|||Poder Secreto
-5|||Cuchillada|||Talho
-5|||Estímulo|||Estímulo
-5|||Cornada|||Ataque de Chifre
-5|||Pisotón|||Pisão
-5|||Antojo|||Cobiça
-5|||Poder Oculto|||Poder Oculto
-5|||Canon|||Cânone
-5|||Meteoros|||Meteoro
-5|||Agarre|||Agarrar
-5|||Corte|||Cortar
-5|||Giro Rápido|||Giro Rápido
-5|||Ronquido|||Ronco
-5|||Pulso de Campo|||Pulso de Terreno
-5|||Meteorobola|||Bola Climática
-5|||Eco Voz|||Eco de Voz
-5|||Sorpresa|||Ataque Surpresa
-5|||Falso Tortazo|||Falso Golpe
-5|||Clemencia|||Clemência
-5|||Día de Pago|||Dia de Pagamento
-5|||Destructor|||Tapa
-5|||Ataque Rápido|||Ataque Rápido
-5|||Arañazo|||Arranhão
-5|||Placaje|||Investida
-5|||Doble Golpe|||Golpe Duplo
-5|||Amago|||Finta
-5|||Plumerazo|||Tapa de Pena
-5|||Furia|||Fúria
-5|||Clavo Cañón|||Canhão de Pregos
-5|||Puño Cometa|||Soco Cometa
-5|||Golpes Furia|||Golpes de Fúria
-5|||Bombardeo|||Bombardeio
-5|||Atadura|||Prisão
-5|||Doble Bofetón|||Tapa Duplo
-5|||Ataque Furia|||Ataque de Fúria
-5|||Constricción|||Constrição
-5|||Restricción|||Restrição
-5|||Venganza|||Vingança
-5|||Agarrón|||Aperto
-5|||Esfuerzo|||Esforço
-5|||Azote|||Debate
-5|||Frustración|||Frustração
-5|||Guillotina|||Guilhotina
-5|||Perforador|||Chifre Broca
-5|||Don Natural|||Dom Natural
-5|||Presente|||Presente
-5|||Retribución|||Retorno
-5|||Bomba Sónica|||Bomba Sônica
-5|||Escupir|||Cuspir
-5|||Superdiente|||Super Presa
-5|||As Oculto|||Trunfo
-5|||Estrujón|||Esmagamento
-5|||Acupresión|||Acupressão
-5|||Cede Paso|||Dar Passagem
-5|||Ayuda|||Ajuda
-5|||Atracción|||Atração
-5|||Relevo|||Passar Bastão
-5|||Tambor|||Tambor
-5|||Ofrenda|||Oferenda
-5|||Bloqueo|||Bloqueio
-5|||Camuflaje|||Camuflagem
-5|||Seducción|||Sedução
-5|||Celebración|||Celebração
-5|||Confidencia|||Confidência
-5|||Conversión|||Conversão
-5|||Conversión2|||Conversão 2
-5|||Copión|||Copiador
-5|||Cambio de Cancha|||Mudança de Campo
-5|||Rizo Defensa|||Enrolar Defesa
-5|||Anulación|||Desabilitar
-5|||Doble Equipo|||Time Duplo
-5|||Otra Vez|||Bis
-5|||Aguante|||Resistência
-5|||Danza Amiga|||Dança Amiga
+5|||Vaho Gélido|||Frost Breath
+5|||Viento Hielo|||Icy Wind
+5|||Esquirla Helada|||Iceshard
+5|||Nieve Polvo|||Powder Snow
+5|||Bola Hielo|||Ice Ball
+5|||Carámbano|||Icicle Spear
+5|||Triple Axel|||Triple Axel
+5|||Frío Polar|||Sheer Cold
+5|||Velo Aurora|||Aurora Veil
+5|||Granizo|||Hail
+5|||Niebla|||Haze
+5|||Neblina|||Mist
+5|||Explosion|||Explosion
+5|||Autodestrucción|||Self-Destruct
+5|||Gigaimpacto|||Giga Impact
+5|||Hiperrayo|||Hyper Beam
+5|||Estruendo|||Boomburst
+5|||Última Baza|||Last Resort
+5|||Cabezazo|||Skull Bash
+5|||Doble Filo|||Double-Edge
+5|||Ariete|||Head Charge
+5|||Megapatada|||Mega Kick
+5|||Multiataque|||Multi-Attack
+5|||Tecno Shock|||Techno Blast
+5|||Saña|||Thrash
+5|||Bomba Huevo|||Egg Bomb
+5|||Sentencia|||Judgment
+5|||Vozarrón|||Hyper Voice
+5|||Danza Despertar|||Revelation Dance
+5|||Treparrocas|||Rock Climb
+5|||Derribo|||Take Down
+5|||Alboroto|||Uproar
+5|||Golpe Cuerpo|||Body Slam
+5|||Velocidad Extrema|||Extremespeed
+5|||Hipercolmillo|||Hyper Fang
+5|||Megapuño|||Mega Punch
+5|||Viento Cortante|||Razor Wind
+5|||Atizar|||Slam
+5|||Fuerza|||Strength
+5|||Triataque|||Tri Attack
+5|||Garra Brutal|||Crush Claw
+5|||Canto Arcaico|||Relic Song
+5|||Guardia Baja|||Chip Away
+5|||Puño Mareo|||Dizzy Punch
+5|||Fachada|||Facade
+5|||Golpe Cabeza|||Headbutt
+5|||Represalia|||Retaliate
+5|||Daño Secreto|||Secret Power
+5|||Cuchillada|||Slash
+5|||Estímulo|||Smelling Salts
+5|||Cornada|||Horn Attack
+5|||Pisotón|||Stomp
+5|||Antojo|||Covet
+5|||Poder Oculto|||Hidden Power
+5|||Canon|||Round
+5|||Meteoros|||Swift
+5|||Agarre|||Vise Grip
+5|||Corte|||Cut
+5|||Giro Rápido|||Rapid Spin
+5|||Ronquido|||Snore
+5|||Pulso de Campo|||Terrain Pulse
+5|||Meteorobola|||Weather Ball
+5|||Eco Voz|||Echoed Voice
+5|||Sorpresa|||Fake Out
+5|||Falso Tortazo|||False Swipe
+5|||Clemencia|||Hold Back
+5|||Día de Pago|||Pay Day
+5|||Destructor|||Pound
+5|||Ataque Rápido|||Quick Attack
+5|||Arañazo|||Scratch
+5|||Placaje|||Tackle
+5|||Doble Golpe|||Double Hit
+5|||Amago|||Feint
+5|||Plumerazo|||Tail Slap
+5|||Furia|||Rage
+5|||Clavo Cañón|||Spike Cannon
+5|||Puño Cometa|||Comet Punch
+5|||Golpes Furia|||Fury Swipes
+5|||Bombardeo|||Barrage
+5|||Atadura|||Bind
+5|||Doble Bofetón|||Double Slap
+5|||Ataque Furia|||Fury Attack
+5|||Constricción|||Wrap
+5|||Restricción|||Constrict
+5|||Venganza|||Bide
+5|||Agarrón|||Crush Grip
+5|||Esfuerzo|||Endeavor
+5|||Azote|||Flail
+5|||Frustración|||Frustration
+5|||Guillotina|||Guillotine
+5|||Perforador|||Horn Drill
+5|||Don Natural|||Natural Gift
+5|||Presente|||Present
+5|||Retribución|||Return
+5|||Bomba Sónica|||Sonic Boom
+5|||Escupir|||Spit Up
+5|||Superdiente|||Super Fang
+5|||As Oculto|||Trump Card
+5|||Estrujón|||Wring Out
+5|||Acupresión|||Acupressure
+5|||Cede Paso|||After You
+5|||Ayuda|||Assist
+5|||Atracción|||Attract
+5|||Relevo|||Baton Pass
+5|||Tambor|||Belly Drum
+5|||Ofrenda|||Bestow
+5|||Bloqueo|||Block
+5|||Camuflaje|||Camouflage
+5|||Seducción|||Captivate
+5|||Celebración|||Celebrate
+5|||Confidencia|||Confide
+5|||Conversión|||Conversion
+5|||Conversión2|||Conversion 2
+5|||Copión|||Copycat
+5|||Cambio de Cancha|||Court Change
+5|||Rizo Defensa|||Defense Curl
+5|||Anulación|||Disable
+5|||Doble Equipo|||Double Team
+5|||Otra Vez|||Encore
+5|||Aguante|||Endure
+5|||Danza Amiga|||Entrainment
 5|||Destello|||Flash
-5|||Foco Energía|||Focar Energia
-5|||Señuelo|||Isca
-5|||Profecía|||Previsão
-5|||Deslumbrar|||Deslumbrar
-5|||Gruñido|||Rosnado
-5|||Desarrollo|||Crescimento
-5|||Paga Extra|||Pagamento Extra
-5|||Fortaleza||| Endurecer
-5|||Cascabel Cura|||Sino de Cura
-5|||Refuerzo|||Mão Amiga
-5|||Manos Juntas|||Mãos Dadas
-5|||Aullido|||Uivo
-5|||Aguzar|||Aguçar
-5|||Malicioso|||Malicioso
-5|||Fijar Blanco|||Travar Mira
-5|||Beso Amoroso|||Beijo Adorável
-5|||Conjuro|||Conjuro
-5|||Yo Primero|||Eu Primeiro
-5|||Mal de Ojo|||Olhar Malvado
-5|||Metrónomo|||Metrônomo
-5|||Batido|||Bebida de Leite
-5|||Mimético|||Mímico
-5|||Telépata|||Leitor de Mentes
-5|||Reducción|||Minimizar
-5|||Sol Matinal|||Sol da Manhã
-5|||Adaptación|||Poder da Natureza
-5|||Rugido de Guerra|||Rugido Nobre
-5|||Rastreo|||Farejar
-5|||Divide Dolor|||Divisão de Dor
-5|||Canto Mortal|||Canção da Perdição
-5|||Camaradería|||Pegar Leve
-5|||Protección|||Proteção
-5|||Autosugestión|||Autossugestão
-5|||Recuperación|||Recuperação
-5|||Reciclaje|||Reciclar
-5|||Clonatipo|||Refletir Tipo
-5|||Alivio|||Alívio
-5|||Rugido|||Rugido
-5|||Velo Sagrado|||Salvaguarda
-5|||Cara Susto|||Cara Assustadora
-5|||Chirrido|||Guincho
-5|||Afilar|||Afiar
-5|||Rompecoraza|||Quebra-Concha
-5|||Onda Simple|||Raio Simples
-5|||Canto|||Cantar
-5|||Esquema|||Esboço
-5|||Relajo|||Relaxar
-5|||Sonámbulo|||Sonâmbulo
-5|||Pantalla de Humo|||Cortina de Fumaça
-5|||Ovocuración|||Ovo Cozido
-5|||Salpicadura|||Respingo
-5|||Foco|||Holofote
-5|||Reserva|||Estocar
-5|||Atiborramiento|||Encher Bochechas
-5|||Sustituto|||Substituto
-5|||Supersónico|||Supersônico
-5|||Fanfarronear|||Vangloriar
-5|||Tragar|||Engolir
-5|||Dulce Aroma|||Aroma Doce
-5|||Danza Espada|||Dança das Espadas
-5|||Agitacola|||Abanar Cauda
-5|||Ojos Llorosos|||Olhar Choroso
-5|||Hora del Té|||Hora do Chá
-5|||Danza Caos|||Dança Caótica
-5|||Cosquillas|||Cócegas
-5|||Transformación|||Transformação
-5|||Remolino|||Redemoinho
-5|||Deseo|||Desejo
-5|||Avivar|||Avivar
-5|||Bostezo|||Bocejo
-5|||Eructo|||Arroto
-5|||Lanzamugre|||Tiro de Sujeira
-5|||Onda Tóxica|||Onda de Veneno
-5|||Moluscañón|||Braço de Concha
-5|||Bomba Lodo|||Bomba de Lodo
-5|||Puya Nociva|||Golpe Venenoso
-5|||Veneno X|||Veneno X
-5|||Residuos|||Lodo
-5|||Carga Tóxica|||Choque Venenoso
-5|||Niebla Clara|||Névoa Clara
-5|||Colmillo Veneno|||Presa Venenosa
-5|||Cola Veneno|||Cauda Venenosa
-5|||Ácido|||Ácido
-5|||Bomba Ácida|||Bomba Ácida
-5|||Polución|||Poluição
-5|||Picotazo Veneno|||Picada Venenosa
-5|||Armadura Ácida|||Armadura Ácida
-5|||Búnker|||Bunker Funesto
-5|||Enrosque|||Enrolar
-5|||Gas Corrosivo|||Gás Corrosivo
-5|||Bilis|||Ácido Gástrico
-5|||Gas Venenoso|||Gás Venenoso
-5|||Polvo Veneno|||Pó Venenoso
-5|||Purificación|||Purificação
-5|||Tóxico|||Tóxico
-5|||Púas Tóxicas|||Espinhos Tóxicos
-5|||Hilo Venenoso|||Fio Tóxico
-5|||Trampa Venenosa|||Banho de Veneno
-5|||Láser Prisma|||Laser Prismático
-5|||Psicoataque|||Psicoataque
-5|||Premonición|||Visão Futura
-5|||Sincrorruido|||Sincrorruído
-5|||Comesueños|||Devorador de Sonhos
-5|||Géiser Fotónico|||Gêiser de Fótons
-5|||Onda Mental|||Golpe Psíquico
-5|||Mirada Heladora|||Olhar Congelante
-5|||Psíquico|||Psíquico
-5|||Psicocolmillo|||Presas Psíquicas
-5|||Conjuro Funesto|||Feitiço Sombrio
-5|||Vasta Fuerza|||Força Expansiva
-5|||Paranormal|||Extrassensorial
-5|||Paso Dimensional|||Fenda Dimensional
-5|||Psicocarga|||Choque Psíquico
-5|||Cabezazo Zen|||Cabeçada Zen
-5|||Resplandor|||Expurgo Luminoso
-5|||Bola Neblina|||Bola de Névoa
-5|||Psicocorte|||Corte Psíquico
-5|||Psicorrayo|||Raio Psíquico
-5|||Arrumaco|||Marca de Coração
-5|||Confusión|||Confusão
-5|||Poder Reserva|||Poder Armazenado
-5|||Manto Espejo|||Casaco Espelhado
-5|||Psicoonda|||Psico-onda
-5|||Agilidad|||Agilidade
-5|||Cambio de Banda|||Troca de Lado
-5|||Amnesia|||Amnésia
-5|||Barrera|||Barreira
-5|||Paz Mental|||Paz Mental
-5|||Masa Cósmica|||Poder Cósmico
-5|||Gravedad|||Gravidade
-5|||Isoguardia|||Guarda de Guarda
-5|||Cambiadefensa|||Troca-Defesa
-5|||Anticura|||Bloqueio de Cura
-5|||Pulso Cura|||Pulso Curativo
-5|||Deseo Cura|||Desejo Curativo
-5|||Cambiaalmas|||Coração Trocado
-5|||Hipnosis|||Hipnose
-5|||Sellar|||Selar
-5|||Mandato|||Instrução
-5|||Kinético|||Cinético
-5|||Pantalla de Luz|||Tela de Luz
-5|||Danza Lunar|||Dança Lunar
-5|||Capa Mágica|||Capa Mágica
-5|||Polvo Mágico|||Pó Mágico
-5|||Zona Mágica|||Sala Mágica
-5|||Meditación|||Meditação
-5|||Gran Ojo|||Foco Mental
-5|||Isofuerza|||Poder Dividido
-5|||Cambiafuerza|||Troca-Poder
-5|||Truco Fuerza|||Truque de Poder
-5|||Campo Psíquico|||Terreno Psíquico
-5|||Psicocambio|||Troca Psíquica
-5|||Reflejo|||Refletir
-5|||Descanso|||Descansar
-5|||Imitación|||Mímica
-5|||Intercambio|||Troca de Habilidade
-5|||Cambiavelocidad|||Troca-Velocidade
-5|||Telequinesis|||Telecinese
-5|||Teletransporte|||Teletransporte
-5|||Truco|||Truque
-5|||Espacio Raro|||Sala de Truques
-5|||Zona Extraña|||Sala Estranha
-5|||Testarazo|||Esmagamento de Cabeça
-5|||Romperrocas|||Quebra-Rochas
-5|||Rayo Meteórico|||Raio de Meteoro
-5|||Torm. de Diamantes|||Tempestade de Diamantes
-5|||Roca Afilada|||Gume de Pedra
-5|||Joya de Luz|||Joia do Poder
-5|||Avalancha|||Deslizamento de Pedras
-5|||Poder Pasado|||Poder Antigo
-5|||Tumba Rocas|||Tumba de Rochas
-5|||Lanzarrocas|||Arremesso de Rocha
-5|||Antiaéreo|||Derrubar
-5|||Roca Veloz|||Rocha Veloz
-5|||Rodar|||Rolar
-5|||Pedrada|||Pedrada
-5|||Pulimento|||Polir Rocha
-5|||Tormenta Arena|||Tempestade de Areia
-5|||Trampa Rocas|||Pedra Oculta
-5|||Alquitranazo|||Tiro de Alcatrão
-5|||Vasta Guardia|||Guarda Ampla
-5|||Deseo Oculto|||Desejo Oculto
-5|||Metaláser|||Raio de Aço
-5|||Allanador Férreo|||Rolo Compressor
-5|||Embate Supremo|||Impacto Meteórico
-5|||Tajo Supremo|||Lâmina Gigante
-5|||Cola Férrea|||Cauda de Ferro
-5|||Meteoimpacto|||Impacto de Meteoro
-5|||Puño Meteoro|||Soco Meteoro
-5|||Anclaje|||Tiro de Âncora
-5|||Cañón Resplandor|||Canhão de Luz
-5|||Cabeza de Hierro|||Cabeça de Ferro
-5|||Cuerno Certero|||Chifre Inteligente
-5|||Ala de Acero|||Asa de Aço
-5|||Ferropuño Doble|||Soco de Ferro Duplo
-5|||Disparo Espejo|||Tiro Espelhado
-5|||Bomba Imán|||Bomba de Ímã
-5|||Rueda Doble|||Engrenagem
-5|||Garra Metal|||Garra de Metal
-5|||Puño Bala|||Soco Bala
-5|||Giro Bola|||Giro Bola
-5|||Cuerpo Pesado|||Pancada Pesada
-5|||Represión Metal|||Ruína de Metal
-5|||Aligerar|||Autotomia
-5|||Piñón Auxiliar|||Engrenagem Auxiliar
-5|||Defensa Férrea|||Defesa de Ferro
-5|||Escudo Real|||Escudo do Rei
-5|||Eco Metálico|||Som Metálico
-5|||Cambio de Marcha|||Mudança de Marcha
-5|||Hidrocañón|||Hidrocanhão
-5|||Salpicar|||Jorrar d'Água
-5|||Hidrobomba|||Hidro Bomba
-5|||Pulso Primigenio|||Pulso Original
-5|||Chorro de Vapor|||Erupção de Vapor
-5|||Martillazo|||Martelo Caranguejo
-5|||Acua Cola|||Cauda d'Água
-5|||Agua Lodosa|||Água Barrenta
-5|||Aria Burbuja|||Ária Borbulhante
-5|||Surf|||Surfar
-5|||Branquibocado|||Mordida de Guelra
-5|||Hidroariete|||Liquidação
-5|||Buceo|||Mergulho
-5|||Escaldar|||Escaldar
-5|||Disparo Certero|||Tiro Certeiro
-5|||Voto Agua|||Voto de Água
-5|||Cascada|||Cachoeira
-5|||Concha Filo|||Concha Navalha
-5|||Salmuera|||Salmoura
-5|||Rayo Burbuja|||Raio de Bolhas
-5|||Pulpocañón|||Canhão Octazuca
-5|||Viraje|||Giro Rápido
-5|||Hidropulso|||Pulso d'Água
-5|||Acua Jet|||Acua Jato
-5|||Burbuja|||Bolhas
-5|||Pistola Agua|||Arma de Água
-5|||Tenaza|||Grampo
-5|||Torbellino|||Redemoinho
-5|||Azote Torrencial|||Golpe Fluido
-5|||Shuriken de Agua|||Shuriken de Água
-5|||Acua Aro|||Anel d'Água
-5|||Gota Vital|||Orvalho da Vida
-5|||Danza Lluvia|||Dança da Chuva
-5|||Empapar|||Encharcar
-5|||Hidrochorro|||Hidro Jato
-5|||Refugio|||Retirada
-5|||Garra Nociva|||Garra Nociva
-5|||Ciclón Primavera|||Ciclone de Primavera
-5|||Erupción de Ira|||Erupção de Fúria
-5|||Envite Acuático|||Batida Aquática
-5|||Clorofiláser|||Raio de Clorofila
-5|||Viento Carámbano|||Vento Congelante
-5|||Arremetida|||Investida Selvagem
-5|||Mil Púas Tóxicas|||Mil Espinhos Tóxicos
-5|||Ala Aural|||Asa Esper
-5|||Rencor Reprimido|||Rancor Amargo
-5|||Triple Flecha|||Flechas Triplas
-5|||Vendaval Gélido|||Tempestade Congelante
-5|||Electormenta|||Tempestade Relâmpago
-5|||Simún de Arena|||Areia Escaldante
-5|||Plegaria Lunar|||Bênção Lunar
-5|||Asalto Barrera|||Batida de Barreira
-5|||Cambiapoder|||Troca-Poderes
-5|||Hachazo Pétreo|||Machado de Pedra
-5|||Poder Místico|||Poder Místico
-5|||Danza Triunfal|||Dança da Vitória
-5|||Retracción|||Refúgio
-5|||Marcha Espectral|||Desfile Espectral
-5|||Tajo Metralla|||Talho Implacável
-5|||Bálsamo Osado|||Bálsamo Valente
-5|||Tajo Acuático|||Corte Aquático
-5|||Danza Acuática|||Dança Aquática
-5|||Cañón Armadura|||Canhão de Armadura
-5|||Patada Hacha|||Chute de Machado
-5|||Espada Lamento|||Lâmina de Lamento
-5|||Pirochoque|||Torque Flamejante
-5|||Agua Fría|||Água Fria
-5|||Fría Acogida|||Boas-Vindas Frias
-5|||Nitrochoque|||Torque de Combate
-5|||Pugnachoque|||Torque de Pugna
-5|||Resarcimiento|||Retaliação Justa
-5|||Decalcomanía|||Rabiscar
-5|||Electropalmas|||Palmas Elétricas
-5|||Electroderrape|||Derrapagem Elétrica
-5|||Deslome|||Quebra-Costas
-5|||Truco Floral|||Truque Floral
-5|||Martillo Colosal|||Martelo Colossal
-5|||Asalto Espadón|||Investida de Glaive
-5|||Hipertaladro|||Hiper Broca
-5|||Pirueta Helada|||Giratória de Gelo
-5|||Puño Jet|||Soco Jato
-5|||Genufendiente|||Corte de Reverência
-5|||Homenaje Póstumo|||Últimas Homenagens
-5|||Fotocolisión|||Colisão de Luz
-5|||Feerichoque|||Torque Mágico
-5|||Fiebre Dorada|||Febre do Ouro
-5|||Giro Mortífero|||Giro Mortal
-5|||Ponzochoque|||Torque Nocivo
-5|||Oído Cocina|||Pedido Pronto
-5|||Proliferación|||Bomba Populacional
-5|||Brinco|||Pulo Rápido
-5|||Puño Furia|||Soco de Fúria
-5|||Furia Taurina|||Touro Raivoso
-5|||Plegaria Vital|||Bênção de Reavivamento
-5|||Calamidad|||Ruína
-5|||Salazón|||Cura de Sal
-5|||Autotomía|||Autotomia
-5|||Telatrampa|||Armadilha de Teia
-5|||Paisaje Nevado|||Paisagem Nevada
-5|||Extracto Picante|||Extrato Picante
-5|||Quemarrueda|||Queimar Pneu
-5|||Limpieza General|||Limpeza Geral
-5|||Canto Ardiente|||Canto Ardente
-5|||Abrecaminos|||Desbravador
-5|||Triple Inmersión|||Mergulho Triplo
-5|||Láser Doble|||Feixe Duplo
-5|||Ominochoque|||Torque Perverso
-5|||Hidrovapor|||Hidro Vapor
-5|||Psicohojas|||Lâmina Psíquica
-5|||Luna Roja|||Lua Sangrenta
-5|||Cañón Batidor|||Disparo de Matcha
-5|||Bomba Caramelo|||Bomba de Xarope
-5|||Garrote Liana|||Tacape de Vinha
-5|||Electrorrayo|||Disparo Elétrico
-5|||Teraclúster|||Temp. Estelar Tera
-5|||Láser Veleidoso|||Raio Volúvel
-5|||Llama Protectora|||Baluarte Ardente
-5|||Relámpago Súbito|||Trovão Súbito
-5|||Filo Potente|||Talho Poderoso
-5|||Tajo Taquión|||Cortador de Táquions
-5|||Prensa Metálica|||Prensa Rígida
-5|||Bramido Dragón|||Torcida do Dragão
-5|||Canto Encantador|||Voz Sedutora
-5|||Cólera Ardiente|||Explosão de Temperamento
-5|||Plancha Voltaica|||Prensa Supercélula
-5|||Psicorruido|||Ruído Psíquico
-5|||Palma Rauda|||Palma Superior
-5|||Cadena Virulenta|||Corrente Maligna
-5|||Teraexplosión|||Explosão Tera
-5|||Escalofrío|||Recepção Fria
-5|||Deslizamiento|||Cauda Substituta
-5|||Atrapabicho|||Pega-Inseto
-5|||Triple Golpe|||Golpe Triplo
-5|||Eevimpacto|||Voleio Eevee
-5|||Vapodrenaje|||Bolha Saltitante
-5|||Joltioparálisis|||Zumbido Elétrico
-5|||Flarembestida|||Deslize Fervente
-5|||Espeaura|||Brilho Deslumbrante
-5|||Umbreozona|||Zona Sombria
-5|||Leafitobombas|||Semente Viscosa
-5|||Glaceoprisma|||Prisma Congelante
-5|||Sylveotornado|||Redemoinho Cintilante
-5|||Pikatormenta|||Pika-Tempestade
-5|||Pikaturbo|||Zigue-Zape
-5|||Salpikasurf|||Surfe Borrifante
-5|||Pikapicado|||Queda Flutuante
-5|||Luz Devastadora|||Luz Devastadora
+5|||Foco Energía|||Focus Energy
+5|||Señuelo|||Follow Me
+5|||Profecía|||Foresight
+5|||Deslumbrar|||Glare
+5|||Gruñido|||Growl
+5|||Desarrollo|||Growth
+5|||Paga Extra|||Happy Hour
+5|||Fortaleza|||Harden
+5|||Cascabel Cura|||Healbell
+5|||Refuerzo|||Helping Hand
+5|||Manos Juntas|||Hold Hands
+5|||Aullido|||Howl
+5|||Aguzar|||Laser Focus
+5|||Malicioso|||Leer
+5|||Fijar Blanco|||Lock-On
+5|||Beso Amoroso|||Lovely Kiss
+5|||Conjuro|||Lucky Chant
+5|||Yo Primero|||Me First
+5|||Mal de Ojo|||Mean Look
+5|||Metrónomo|||Metronome
+5|||Batido|||Milk Drink
+5|||Mimético|||Mimic
+5|||Telépata|||Mind Reader
+5|||Reducción|||Minimize
+5|||Sol Matinal|||Morning Sun
+5|||Adaptación|||Nature Power
+5|||Rugido de Guerra|||Noble Roar
+5|||Rastreo|||Odor Sleuth
+5|||Divide Dolor|||Pain Split
+5|||Canto Mortal|||Perish Song
+5|||Camaradería|||Play Nice
+5|||Protección|||Protect
+5|||Autosugestión|||Psychup
+5|||Recuperación|||Recover
+5|||Reciclaje|||Recycle
+5|||Clonatipo|||Reflect Type
+5|||Alivio|||Refresh
+5|||Rugido|||Roar
+5|||Velo Sagrado|||Safeguard
+5|||Cara Susto|||Scary Face
+5|||Chirrido|||Screech
+5|||Afilar|||Sharpen
+5|||Rompecoraza|||Shell Smash
+5|||Onda Simple|||Simple Beam
+5|||Canto|||Sing
+5|||Esquema|||Sketch
+5|||Relajo|||Slack Off
+5|||Sonámbulo|||Sleep Talk
+5|||Pantalla de Humo|||Smokescreen
+5|||Ovocuración|||Softboiled
+5|||Salpicadura|||Splash
+5|||Foco|||Spotlight
+5|||Reserva|||Stockpile
+5|||Atiborramiento|||Stuff Cheeks
+5|||Sustituto|||Substitute
+5|||Supersónico|||Supersonic
+5|||Fanfarronear|||Swagger
+5|||Tragar|||Swallow
+5|||Dulce Aroma|||Sweet Scent
+5|||Danza Espada|||Swords Dance
+5|||Agitacola|||Tailwhip
+5|||Ojos Llorosos|||Tearful Look
+5|||Hora del Té|||Teatime
+5|||Danza Caos|||Teeter Dance
+5|||Cosquillas|||Tickle
+5|||Transformación|||Transform
+5|||Remolino|||Whirlwind
+5|||Deseo|||Wish
+5|||Avivar|||Work Up
+5|||Bostezo|||Yawn
+5|||Eructo|||Belch
+5|||Lanzamugre|||Gunk Shot
+5|||Onda Tóxica|||Sludge Wave
+5|||Moluscañón|||Shell Side Arm
+5|||Bomba Lodo|||Sludge Bomb
+5|||Puya Nociva|||Poison Jab
+5|||Veneno X|||Cross Poison
+5|||Residuos|||Sludge
+5|||Carga Tóxica|||Venoshock
+5|||Niebla Clara|||Clear Smog
+5|||Colmillo Veneno|||Poison Fang
+5|||Cola Veneno|||Poison Tail
+5|||Ácido|||Acid
+5|||Bomba Ácida|||Acid Spray
+5|||Polución|||Smog
+5|||Picotazo Veneno|||Poison Sting
+5|||Armadura Ácida|||Acid Armor
+5|||Búnker|||Baneful Bunker
+5|||Enrosque|||Coil
+5|||Gas Corrosivo|||Corrosive Gas
+5|||Bilis|||Gastro Acid
+5|||Gas Venenoso|||Poison Gas
+5|||Polvo Veneno|||Poison Powder
+5|||Purificación|||Purify
+5|||Tóxico|||Toxic
+5|||Púas Tóxicas|||Toxic Spikes
+5|||Hilo Venenoso|||Toxic Thread
+5|||Trampa Venenosa|||Venom Drench
+5|||Láser Prisma|||Prismatic Laser
+5|||Psicoataque|||Psycho Boost
+5|||Premonición|||Future Sight
+5|||Sincrorruido|||Synchronoise
+5|||Comesueños|||Dream Eater
+5|||Géiser Fotónico|||Photon Geyser
+5|||Onda Mental|||Psystrike
+5|||Mirada Heladora|||Freezing Glare
+5|||Psíquico|||Psychic
+5|||Psicocolmillo|||Psychic Fangs
+5|||Conjuro Funesto|||Eerie Spell
+5|||Vasta Fuerza|||Expanding Force
+5|||Paranormal|||Extrasensory
+5|||Paso Dimensional|||Hyperspace Hole
+5|||Psicocarga|||Psyshock
+5|||Cabezazo Zen|||Zen Headbutt
+5|||Resplandor|||Luster Purge
+5|||Bola Neblina|||Mist Ball
+5|||Psicocorte|||Psycho Cut
+5|||Psicorrayo|||Psybeam
+5|||Arrumaco|||Heart Stamp
+5|||Confusión|||Confusion
+5|||Poder Reserva|||Stored Power
+5|||Manto Espejo|||Mirror Coat
+5|||Psicoonda|||Psywave
+5|||Agilidad|||Agility
+5|||Cambio de Banda|||Ally Switch
+5|||Amnesia|||Amnesia
+5|||Barrera|||Barrier
+5|||Paz Mental|||Calm Mind
+5|||Masa Cósmica|||Cosmic Power
+5|||Gravedad|||Gravity
+5|||Isoguardia|||Guard Split
+5|||Cambiadefensa|||Guard Swap
+5|||Anticura|||Heal Block
+5|||Pulso Cura|||Heal Pulse
+5|||Deseo Cura|||Healing Wish
+5|||Cambiaalmas|||Heartswap
+5|||Hipnosis|||Hypnosis
+5|||Sellar|||Imprison
+5|||Mandato|||Instruct
+5|||Kinético|||Kinesis
+5|||Pantalla de Luz|||Light Screen
+5|||Danza Lunar|||Lunar Dance
+5|||Capa Mágica|||Magic Coat
+5|||Polvo Mágico|||Magic Powder
+5|||Zona Mágica|||Magic Room
+5|||Meditación|||Meditate
+5|||Gran Ojo|||Miracle Eye
+5|||Isofuerza|||Power Split
+5|||Cambiafuerza|||Power Swap
+5|||Truco Fuerza|||Power Trick
+5|||Campo Psíquico|||Psychic Terrain
+5|||Psicocambio|||Psycho Shift
+5|||Reflejo|||Reflect
+5|||Descanso|||Rest
+5|||Imitación|||Role Play
+5|||Intercambio|||Skill Swap
+5|||Cambiavelocidad|||Speed Swap
+5|||Telequinesis|||Telekinesis
+5|||Teletransporte|||Teleport
+5|||Truco|||Trick
+5|||Espacio Raro|||Trick Room
+5|||Zona Extraña|||Wonder Room
+5|||Testarazo|||Head Smash
+5|||Romperrocas|||Rock Wrecker
+5|||Rayo Meteórico|||Meteor Beam
+5|||Torm. de Diamantes|||Diamondstorm
+5|||Roca Afilada|||Stone Edge
+5|||Joya de Luz|||Power Gem
+5|||Avalancha|||Rock Slide
+5|||Poder Pasado|||Ancient Power
+5|||Tumba Rocas|||Rock Tomb
+5|||Lanzarrocas|||Rock Throw
+5|||Antiaéreo|||Smack Down
+5|||Roca Veloz|||Accelerock
+5|||Rodar|||Rollout
+5|||Pedrada|||Rock Blast
+5|||Pulimento|||Rock Polish
+5|||Tormenta Arena|||Sandstorm
+5|||Trampa Rocas|||Stealth Rock
+5|||Alquitranazo|||Tar Shot
+5|||Vasta Guardia|||Wideguard
+5|||Deseo Oculto|||Doom Desire
+5|||Metaláser|||Steel Beam
+5|||Allanador Férreo|||Steel Roller
+5|||Embate Supremo|||Behemoth Bash
+5|||Tajo Supremo|||Behemoth Blade
+5|||Cola Férrea|||Iron Tail
+5|||Meteoimpacto|||Sunsteel Strike
+5|||Puño Meteoro|||Meteor Mash
+5|||Anclaje|||Anchor Shot
+5|||Cañón Resplandor|||Flashcannon
+5|||Cabeza de Hierro|||Iron Head
+5|||Cuerno Certero|||Smart Strike
+5|||Ala de Acero|||Steel Wing
+5|||Ferropuño Doble|||Double Iron Bash
+5|||Disparo Espejo|||Mirror Shot
+5|||Bomba Imán|||Magnet Bomb
+5|||Rueda Doble|||Gear Grind
+5|||Garra Metal|||Metal Claw
+5|||Puño Bala|||Bullet Punch
+5|||Giro Bola|||Gyro Ball
+5|||Cuerpo Pesado|||Heavy Slam
+5|||Represión Metal|||Metal Burst
+5|||Aligerar|||Autotomize
+5|||Piñón Auxiliar|||Gear Up
+5|||Defensa Férrea|||Iron Defense
+5|||Escudo Real|||King’s Shield
+5|||Eco Metálico|||Metal Sound
+5|||Cambio de Marcha|||Shift Gear
+5|||Hidrocañón|||Hydro Cannon
+5|||Salpicar|||Water Spout
+5|||Hidrobomba|||Hydro Pump
+5|||Pulso Primigenio|||Origin Pulse
+5|||Chorro de Vapor|||Steam Eruption
+5|||Martillazo|||Crabhammer
+5|||Acua Cola|||Aqua Tail
+5|||Agua Lodosa|||Muddy Water
+5|||Aria Burbuja|||Sparkling Aria
+5|||Surf|||Surf
+5|||Branquibocado|||Fishious Rend
+5|||Hidroariete|||Liquidation
+5|||Buceo|||Dive
+5|||Escaldar|||Scald
+5|||Disparo Certero|||Snipe Shot
+5|||Voto Agua|||Water Pledge
+5|||Cascada|||Waterfall
+5|||Concha Filo|||Razor Shell
+5|||Salmuera|||Brine
+5|||Rayo Burbuja|||Bubble Beam
+5|||Pulpocañón|||Octazooka
+5|||Viraje|||Flip Turn
+5|||Hidropulso|||Water Pulse
+5|||Acua Jet|||Aqua Jet
+5|||Burbuja|||Bubble
+5|||Pistola Agua|||Water Gun
+5|||Tenaza|||Clamp
+5|||Torbellino|||Whirlpool
+5|||Azote Torrencial|||Surging Strikes
+5|||Shuriken de Agua|||Water Shuriken
+5|||Acua Aro|||Aqua Ring
+5|||Gota Vital|||Life Dew
+5|||Danza Lluvia|||Rain Dance
+5|||Empapar|||Soak
+5|||Hidrochorro|||Water Sport
+5|||Refugio|||Withdraw
+5|||Garra Nociva|||Direclaw
+5|||Ciclón Primavera|||Springtidestorm
+5|||Erupción de Ira|||Ragingfury
+5|||Envite Acuático|||Wavecrash
+5|||Clorofiláser|||Chloroblast
+5|||Viento Carámbano|||Mountaingale
+5|||Arremetida|||Headlongrush
+5|||Mil Púas Tóxicas|||Barbbarrage
+5|||Ala Aural|||Esperwing
+5|||Rencor Reprimido|||Bittermalice
+5|||Triple Flecha|||Triplearrows
+5|||Vendaval Gélido|||Bleakwindstorm
+5|||Electormenta|||Wildboltstorm
+5|||Simún de Arena|||Sandsearstorm
+5|||Plegaria Lunar|||Lunarblessing
+5|||Asalto Barrera|||Psyshieldbash
+5|||Cambiapoder|||Powershift
+5|||Hachazo Pétreo|||Stoneaxe
+5|||Poder Místico|||Mysticalpower
+5|||Danza Triunfal|||Victorydance
+5|||Retracción|||Shelter
+5|||Marcha Espectral|||Infernalparade
+5|||Tajo Metralla|||Ceaselessedge
+5|||Bálsamo Osado|||Takeheart
+5|||Tajo Acuático|||Aquacutter
+5|||Danza Acuática|||Aquastep
+5|||Cañón Armadura|||Armorcannon
+5|||Patada Hacha|||Axekick
+5|||Espada Lamento|||Bitterblade
+5|||Pirochoque|||Blazingtorque
+5|||Agua Fría|||Chillingwater
+5|||Fría Acogida|||Chillyreception
+5|||Nitrochoque|||Collisioncourse
+5|||Pugnachoque|||Combattorque
+5|||Resarcimiento|||Comeuppance
+5|||Decalcomanía|||Doodle
+5|||Electropalmas|||Doubleshock
+5|||Electroderrape|||Electrodrift
+5|||Deslome|||Filletaway
+5|||Truco Floral|||Flowertrick
+5|||Martillo Colosal|||Gigatonhammer
+5|||Asalto Espadón|||Glaiverush
+5|||Hipertaladro|||Hyperdrill
+5|||Pirueta Helada|||Icespinner
+5|||Puño Jet|||Jetpunch
+5|||Genufendiente|||Kowtowcleave
+5|||Homenaje Póstumo|||Lastrespects
+5|||Fotocolisión|||Luminacrash
+5|||Feerichoque|||Magicaltorque
+5|||Fiebre Dorada|||Makeitrain
+5|||Giro Mortífero|||Mortalspin
+5|||Ponzochoque|||Noxioustorque
+5|||Oído Cocina|||Orderup
+5|||Proliferación|||Populationbomb
+5|||Brinco|||Pounce
+5|||Puño Furia|||Ragefist
+5|||Furia Taurina|||Ragingbull
+5|||Plegaria Vital|||Revivalblessing
+5|||Calamidad|||Ruination
+5|||Salazón|||Saltcure
+5|||Autotomía|||Shedtail
+5|||Telatrampa|||Silktrap
+5|||Paisaje Nevado|||Snowscape
+5|||Extracto Picante|||Spicyextract
+5|||Quemarrueda|||Spinout
+5|||Limpieza General|||Tidyup
+5|||Canto Ardiente|||Torchsong
+5|||Abrecaminos|||Trailblaze
+5|||Triple Inmersión|||Tripledive
+5|||Láser Doble|||Twinbeam
+5|||Ominochoque|||Wickedtorque
+5|||Hidrovapor|||Hydro Steam
+5|||Psicohojas|||Psyblade
+5|||Luna Roja|||Bloodmoon
+5|||Cañón Batidor|||Matchagotcha
+5|||Bomba Caramelo|||Syrupbomb
+5|||Garrote Liana|||Ivycudgel
+5|||Electrorrayo|||Electro Shot
+5|||Teraclúster|||Tera Starstorm
+5|||Láser Veleidoso|||Fickle Beam
+5|||Llama Protectora|||Burning Bulwark
+5|||Relámpago Súbito|||Thunderclap
+5|||Filo Potente|||Mighty Cleave
+5|||Tajo Taquión|||Tachyon Cutter
+5|||Prensa Metálica|||Hard Press
+5|||Bramido Dragón|||Dragon Cheer
+5|||Canto Encantador|||Alluring Voice
+5|||Cólera Ardiente|||Temper Flare
+5|||Plancha Voltaica|||Supercell Slam
+5|||Psicorruido|||Psychic Noise
+5|||Palma Rauda|||Upper Hand
+5|||Cadena Virulenta|||Malignant Chain
+5|||Teraexplosión|||Terablast
+5|||Escalofrío|||Chill
+5|||Deslizamiento|||Sliding
+5|||Atrapabicho|||Bug Catcher
+5|||Triple Golpe|||Triple Hit
+5|||Eevimpacto|||Veevee Volley
+5|||Vapodrenaje|||Bouncy Bubble
+5|||Joltioparálisis|||Buzzy Buzz
+5|||Flarembestida|||Sizzly Slide
+5|||Espeaura|||Glitzy Glow
+5|||Umbreozona|||Baddy Bad
+5|||Leafitobombas|||Sappy Seed
+5|||Glaceoprisma|||Freezy Frost
+5|||Sylveotornado|||Sparkly Swirl
+5|||Pikatormenta|||Pika Papow
+5|||Pikaturbo|||Zippy Zap
+5|||Salpikasurf|||Splishy Splash
+5|||Pikapicado|||Floaty Fall
+5|||Luz Devastadora|||Nihillight
 6|||Violenta embestida con cuernos imponentes.|||Ataque violento com chifres imponentes.
 6|||El usuario llama a sus amigos para que ataquen al rival. Suele ser crítico.|||O usuário chama seus subordinados para atacar o oponente. Tem alta chance de acerto crítico.
 6|||El movimiento de las alas crea una onda sónica dañina. Puede disminuir la Defensa Especial del objetivo.|||O bater de asas cria uma onda sonora prejudicial. Pode reduzir a Defesa Especial do alvo.
@@ -7824,12 +7824,12 @@
 24|||¡{1} de {2} previene el cambio!|||{1} de {2} impede a alteração!
 24|||{1} ya ha sido seleccionado.|||{1} já foi selecionado.
 24|||{1} va a sacar a {2}. ¿Quieres cambiar de Pokémon?|||{1} escolheu {2}. Você quer mudar de Pokémon?
-24|||¿Quieres sacar a otro Pokémon?|||Você quer eliminar outro Pokémon?
-24|||¡Buen trabajo {1}! ¡Regresa!|||Bom trabalho {1}! Voltar!
-24|||¡OK, {1}! ¡Regresa!|||OK, {1}! Voltar!
-24|||¡{1}, es suficiente ! ¡Regresa!|||{1}, isso é o suficiente! Voltar!
+24|||¿Quieres sacar a otro Pokémon?|||Você quer mandar outro Pokémon?
+24|||¡Buen trabajo {1}! ¡Regresa!|||Bom trabalho {1}! Volte!
+24|||¡OK, {1}! ¡Regresa!|||OK, {1}! Volte!
+24|||¡{1}, es suficiente ! ¡Regresa!|||{1}, isso é o suficiente! Volte!
 24|||¡{1}, regresa!|||{1}, volte!
-24|||¡{1}, cambia! ¡Regresa!|||{1}, mude! Voltar!
+24|||¡{1}, cambia! ¡Regresa!|||{1}, mude! Volte!
 24|||¡{1} retiró a {2}!|||{1} retirou {2}!
 24|||¡Te toca, {1}!|||É a sua vez, {1}!
 24|||¡Solo un poco más! ¡Aguanta, {1}!|||Só mais um pouco! Aguente firme, {1}!
@@ -15724,31 +15724,31 @@
 24|||Pre|||Prec.
 24|||Evasión|||Evasiva
 24|||Eva|||Evas.
-24|||Fuerte|||Resistente
-24|||Huraña|||Solitário
-24|||Audaz|||Valente
-24|||Firme|||Firme
-24|||Pícara|||Travesso
-24|||Osada|||Ousado
-24|||Dócil|||Dócil
-24|||Plácida|||Relaxado
-24|||Agitada|||Agitado
-24|||Floja|||Frouxo
-24|||Miedosa|||Medroso
-24|||Activa|||Apressado
-24|||Seria|||Sério
-24|||Alegre|||Alegre
-24|||Ingenua|||Ingênuo
-24|||Modesta|||Modesto
-24|||Afable|||Afável
-24|||Mansa|||Manso
-24|||Tímida|||Tímido
-24|||Alocada|||Precipitado
-24|||Serena|||Calmo
-24|||Amable|||Gentil
-24|||Grosera|||Atrevido
-24|||Cauta|||Cuidadoso
-24|||Rara|||Peculiar
+24|||Fuerte|||Hardy
+24|||Huraña|||Lonely
+24|||Audaz|||Brave
+24|||Firme|||Adamant
+24|||Pícara|||Naughty
+24|||Osada|||Bold
+24|||Dócil|||Docile
+24|||Plácida|||Relaxed
+24|||Agitada|||Impish
+24|||Floja|||Lax
+24|||Miedosa|||Timid
+24|||Activa|||Hasty
+24|||Seria|||Serious
+24|||Alegre|||Jolly
+24|||Ingenua|||Naive
+24|||Modesta|||Modest
+24|||Afable|||Mild
+24|||Mansa|||Quiet
+24|||Tímida|||Bashful
+24|||Alocada|||Rash
+24|||Serena|||Calm
+24|||Amable|||Gentle
+24|||Grosera|||Sassy
+24|||Cauta|||Careful
+24|||Rara|||Quirky
 24|||Dormido|||Dormindo
 24|||Envenenado|||Envenenado
 24|||Quemado|||Queimado
@@ -16698,328 +16698,328 @@
 24|||El archivo de guardado está corrupto, o es incompatible con este juego.|||Save corrompido ou incompatível com esta versão.
 24|||Elige qué tipo de Regalo Misterioso descargar.|||Escolha o tipo de Mystery Gift para baixar.
 24|||El archivo "MysteryGiftMaster.txt" se ha convertido a formato {1}.|||O arquivo "MysteryGiftMaster.txt" foi convertido para o formato {1}.
-10|||Hedor|||Fedor
-10|||Impulso|||Impulso
-10|||Llovizna|||Chuvisco
-10|||Armadura Batalla|||Armadura de Batalha
-10|||Humedad|||Umidade
-10|||Flexibilidad|||Flexibilidade
-10|||Robustez|||Robustez
-10|||Elec. Estática|||Estática
-10|||Velo arena|||Véu de Areia
-10|||Aclimatación|||Aclimatagem
+10|||Hedor|||Stench
+10|||Impulso|||Speed Boost
+10|||Llovizna|||Drizzle
+10|||Armadura Batalla|||Battle Armor
+10|||Humedad|||Damp
+10|||Flexibilidad|||Limber
+10|||Robustez|||Sturdy
+10|||Elec. Estática|||Static
+10|||Velo arena|||Sand Veil
+10|||Aclimatación|||Cloud Nine
 10|||Absorbe Elec.|||Absorção de Eletricidade
-10|||Absorbe Agua|||Absorção de Água
-10|||Despiste|||Desatenção
-10|||Insomnio|||Insônia
-10|||Cambio Color|||Mudança de Cor
-10|||Inmunidad|||Imunidade
-10|||Polvo Escudo|||Escudo de Poeira
-10|||Ojo Compuesto|||Olhos Compostos
-10|||Absorbe Fuego|||Absorção de Fogo
-10|||Ritmo Propio|||Ritmo Próprio
-10|||Intimidación|||Intimidação
-10|||Ventosas|||Ventosas
-10|||Piel Tosca|||Pele Áspera
-10|||Sombra Trampa|||Sombra de Armadilha
-10|||Superguarda|||Superguarda
-10|||Sincronía|||Sincronia
-10|||Levitación|||Levitação
-10|||Efecto Espora|||Efeito de Esporo
-10|||Cuerpo Puro|||Corpo Puro
-10|||Pararrayos|||Para-raios
-10|||Dicha|||Serenidade
-10|||Clorofila|||Clorofila
-10|||Iluminación|||Iluminação
-10|||Cura Natural|||Cura Natural
-10|||Nado Rápido|||Nado Rápido
-10|||Potencia|||Poder Enorme
-10|||Calco|||Rastreamento
-10|||Fuerza Mental|||Foco Interno
-10|||Punto Tóxico|||Ponto Tóxico
-10|||Escudo Magma|||Escudo de Magma
-10|||Velo Agua|||Véu de Água
-10|||Imán|||Magnetismo
-10|||Insonorizar|||Insonorizado
-10|||Presión|||Pressão
-10|||Chorro Arena|||Fluxo de Areia
-10|||Cura Lluvia|||Prato de Chuva
-10|||Sebo|||Gordura Espessa
-10|||Fuga|||Fuga
-10|||Cuerpo Llama|||Corpo de Chama
-10|||Madrugar|||Acordar Cedo
-10|||Vista Lince|||Olhar de Lince
-10|||Corte Fuerte|||Hiper Cortante
-10|||Recogida|||Coleta
-10|||Pereza|||Preguiça
-10|||Entusiasmo|||Entusiasmo
+10|||Absorbe Agua|||Water Absorb
+10|||Despiste|||Oblivious
+10|||Insomnio|||Insomnia
+10|||Cambio Color|||Color Change
+10|||Inmunidad|||Immunity
+10|||Polvo Escudo|||Shield Dust
+10|||Ojo Compuesto|||Compound Eyes
+10|||Absorbe Fuego|||Flash Fire
+10|||Ritmo Propio|||Own Tempo
+10|||Intimidación|||Intimidate
+10|||Ventosas|||Suction Cups
+10|||Piel Tosca|||Rough Skin
+10|||Sombra Trampa|||Shadow Tag
+10|||Superguarda|||Wonder Guard
+10|||Sincronía|||Synchronize
+10|||Levitación|||Levitate
+10|||Efecto Espora|||Effect Spore
+10|||Cuerpo Puro|||Clear Body
+10|||Pararrayos|||Lightning Rod
+10|||Dicha|||Serene Grace
+10|||Clorofila|||Chlorophyll
+10|||Iluminación|||Illuminate
+10|||Cura Natural|||Natural Cure
+10|||Nado Rápido|||Swift Swim
+10|||Potencia|||Huge Power
+10|||Calco|||Trace
+10|||Fuerza Mental|||Inner Focus
+10|||Punto Tóxico|||Poison Point
+10|||Escudo Magma|||Magma Armor
+10|||Velo Agua|||Water Veil
+10|||Imán|||Magnet Pull
+10|||Insonorizar|||Soundproof
+10|||Presión|||Pressure
+10|||Chorro Arena|||Sand Stream
+10|||Cura Lluvia|||Rain Dish
+10|||Sebo|||Thick Fat
+10|||Fuga|||Run Away
+10|||Cuerpo Llama|||Flame Body
+10|||Madrugar|||Early Bird
+10|||Vista Lince|||Keen Eye
+10|||Corte Fuerte|||Hyper Cutter
+10|||Recogida|||Pickup
+10|||Pereza|||Truant
+10|||Entusiasmo|||Hustle
 10|||Menos|||Minus
 10|||Más|||Plus
-10|||Gran Encanto|||Poder do Charme
-10|||Predicción|||Antecipação
-10|||Mudar|||Trocar
-10|||Viscosidad|||Pegajoso
-10|||Agallas|||Garra
-10|||Espesura|||Supercrescimento
-10|||Escama Especial|||Escama Maravilhosa
-10|||Torrente|||Torrente
-10|||Viscosecreción|||Sucção de Seiva
-10|||Mar Llamas|||Chamas Ávidas
-10|||Enjambre|||Enxame
-10|||Cabeza Roca|||Cabeça de Rocha
-10|||Sequía|||Seca
-10|||Espíritu Vital|||Espírito Vital
-10|||Humo Blanco|||Fumaça Branca
-10|||Trampa Arena|||Arena de Armadilha
-10|||Energía Pura|||Energia Pura
-10|||Caparazón|||Couraça
+10|||Gran Encanto|||Cute Charm
+10|||Predicción|||Forecast
+10|||Mudar|||Shed Skin
+10|||Viscosidad|||Sticky Hold
+10|||Agallas|||Guts
+10|||Espesura|||Overgrow
+10|||Escama Especial|||Marvel Scale
+10|||Torrente|||Torrent
+10|||Viscosecreción|||Sap Sipper
+10|||Mar Llamas|||Blaze
+10|||Enjambre|||Swarm
+10|||Cabeza Roca|||Rock Head
+10|||Sequía|||Drought
+10|||Espíritu Vital|||Vital Spirit
+10|||Humo Blanco|||White Smoke
+10|||Trampa Arena|||Arena Trap
+10|||Energía Pura|||Pure Power
+10|||Caparazón|||Shell Armor
 10|||Esclusa de Aire|||Eclusa de Ar
-10|||Rivalidad|||Rivalidade
-10|||Impasible|||Inabalável
-10|||Tumbos|||Pés Ligeiros
-10|||Electromotor|||Eletromotor
-10|||Irascible|||Ponto de Ira
-10|||Gula|||Gula
-10|||Manto Níveo|||Manto de Neve
-10|||Liviano|||Leveza
-10|||Ignífugo|||Resistência ao Fogo
-10|||Simple|||Simples
+10|||Rivalidad|||Rivalry
+10|||Impasible|||Steadfast
+10|||Tumbos|||Tangled Feet
+10|||Electromotor|||Motor Drive
+10|||Irascible|||Anger Point
+10|||Gula|||Gluttony
+10|||Manto Níveo|||Snow Cloak
+10|||Liviano|||Unburden
+10|||Ignífugo|||Heatproof
+10|||Simple|||Simple
 10|||Descarga|||Download
-10|||Piel Seca|||Pele Seca
-10|||Antídoto|||Antídoto
-10|||Adaptable|||Adaptabilidade
-10|||Puño Férreo|||Punho de Ferro
-10|||Encadenado|||Elo de Habilidade
-10|||Hidratación|||Hidratação
-10|||Poder Solar|||Poder Solar
-10|||Normalidad|||Pele normal
-10|||Pies Rápidos|||Pés Rápidos
-10|||Francotirador|||Atirador
-10|||Muro Mágico|||Guarda Mágica
-10|||Indefenso|||Sem Guarda
-10|||Experto|||Técnico
-10|||Rezagado|||Lento
-10|||Defense Hoja|||Guarda de Folha
-10|||Zoquete|||Desajeitado
-10|||Afortunado|||Super Sorte
-10|||Rompemoldes|||Quebra de Molde
-10|||Detonación|||Detonador
-10|||Anticipación|||Antecipação
-10|||Alerta|||Alerta
-10|||Ignorante|||Inconsciente
-10|||Filtro|||Filtro
-10|||Intrépido|||Intrépido
-10|||Inicio Lento|||Início Lento
-10|||Colector|||Drenagem de Tempestade
-10|||Cromolente|||Lente Colorida
-10|||Gélido|||Corpo de Gelo
-10|||Nevada|||Aviso de Neve
-10|||Roca Solida|||Rocha Sólida
-10|||Recogemiel|||Coleta de Mel
-10|||Cacheo|||Friscar
-10|||Audaz|||Imprudente
-10|||Multitipo|||Multitipo
-10|||Hurto|||Bater de Carteira
-10|||Mal Sueño|||Sonhos Ruins
-10|||Don Floral|||Dadá Floral
-10|||Nerviosismo|||Tensão
-10|||Competitivo|||Desafiador
-10|||Flaqueza|||Derrotista
-10|||Cuerpo Maldito|||Corpo Amaldiçoado
-10|||Respondón|||Contrário
-10|||Potencia Bruta|||Força Bruta
-10|||Alma Cura|||Coração de Cura
-10|||Compiescolta|||Amigo de Guarda
-10|||Compensación|||Multiescamas
-10|||Metal Pesado|||Metal Pesado
-10|||Armadura Frágil|||Armadura Fraca
-10|||Metal Liviano|||Metal Leve
-10|||Cosecha|||Colheita
-10|||Telepatía|||Telepatia
-10|||Ímpetu Ardiente|||Ímpeto de Chama
-10|||Ímpetu Tóxico|||Ímpeto Tóxico
-10|||Veleta|||Instável
-10|||Funda|||Sobrecapa
-10|||Regeneración|||Regenerador
-10|||Toque Tóxico|||Toque Tóxico
-10|||Ímpetu Arena|||Força de Areia
-10|||Piel Milagro|||Pele Milagrosa
-10|||Cálculo Final|||Analítico
-10|||Sacapecho|||Peito Grande
-10|||Ilusión|||Ilusão
-10|||Impostor|||Impostor
-10|||Momia|||Múmia
-10|||Allanamiento|||Infiltrado
-10|||Autoestima|||Confiança Excessiva
-10|||Justiciero|||Justificado
-10|||Cobardía|||Coração Chacoalhado
-10|||Espejo Mágico|||Reflexo Mágico
-10|||Herbívoro|||Herbívoro
-10|||Bromista|||Pregador de Peças
-10|||Modo Daruma|||Modo Zen
-10|||Punta Acero|||Pontas de Ferro
-10|||Poder Arena|||Ímpeto de Areia
-10|||Tinovictoria|||Estrela da Vitória
-10|||Velo Aroma|||Véu de Aroma
-10|||Turbollama|||Turbochama
-10|||Terravoltaje|||Terravoltagem
-10|||Velo Flor|||Véu de Flor
-10|||Carrillo|||Bochecha de Coleção
-10|||Prestidigitador|||Mágico
-10|||Mutatipo|||Mutação
-10|||Pelaje Recio|||Pelagem Grossa
-10|||Tenacidad|||Tenacidade
-10|||Antibalas|||À Prova de Balas
-10|||Piel Helada|||Pele de Gelo
-10|||Mandíbula Fuerte|||Mandíbula Forte
-10|||Velo Dulce|||Véu Doce
-10|||Cambio Táctico|||Mudança de Postura
-10|||Alas Vendaval|||Asas de Vendaval
-10|||Megadisparador|||Mega Lançador
-10|||Manto Frondoso|||Manto de Grama
-10|||Simbiosis|||Simbiose
-10|||Garra Dura|||Garras Resistentes
-10|||Baba|||Gosma
-10|||Piel Feérica|||Pele de Fada
-10|||Piel Celeste|||Pele Aerodinâmica
-10|||Aura Oscura|||Aura Sombria
-10|||Amor Filial|||Amor de Mãe
-10|||Aura Feérica|||Aura de Fada
-10|||Rompeaura|||Quebra de Aura
-10|||Mar del Albor|||Mar Primordial
-10|||Tierra del Ocaso|||Terra Desolada
-10|||Ráfaga Delta|||Corrente Delta
-10|||Firmeza|||Resistência
-10|||Retirada|||Saída de Emergência
-10|||Huida|||Retirada (Wimp Out)
-10|||Ensañamiento|||Impiedoso
-10|||Hidrorrefuerzo|||Compactação de Água
-10|||Vigilante|||Vigilante
-10|||Pompa|||Bolha
-10|||Escudo Limitado|||Escudo de Reveses
-10|||Cólera|||Frenesi
-10|||Quitanieves|||Corrida na Neve
-10|||Remoto|||Longo Alcance
-10|||Acero Templado|||Trabalhador do Aço
+10|||Piel Seca|||Dry Skin
+10|||Antídoto|||Poison Heal
+10|||Adaptable|||Adaptability
+10|||Puño Férreo|||Iron Fist
+10|||Encadenado|||Skill Link
+10|||Hidratación|||Hydration
+10|||Poder Solar|||Solar Power
+10|||Normalidad|||Normalize
+10|||Pies Rápidos|||Quick Feet
+10|||Francotirador|||Sniper
+10|||Muro Mágico|||Magic Guard
+10|||Indefenso|||No Guard
+10|||Experto|||Technician
+10|||Rezagado|||Stall
+10|||Defense Hoja|||Leaf Guard
+10|||Zoquete|||Klutz
+10|||Afortunado|||Super Luck
+10|||Rompemoldes|||Mold Breaker
+10|||Detonación|||Aftermath
+10|||Anticipación|||Anticipation
+10|||Alerta|||Forewarn
+10|||Ignorante|||Unaware
+10|||Filtro|||Filter
+10|||Intrépido|||Scrappy
+10|||Inicio Lento|||Slow Start
+10|||Colector|||Storm Drain
+10|||Cromolente|||Tinted Lens
+10|||Gélido|||Ice Body
+10|||Nevada|||Snow Warning
+10|||Roca Solida|||Solid Rock
+10|||Recogemiel|||Honey Gather
+10|||Cacheo|||Frisk
+10|||Audaz|||Reckless
+10|||Multitipo|||Multitype
+10|||Hurto|||Pickpocket
+10|||Mal Sueño|||Bad Dreams
+10|||Don Floral|||Flower Gift
+10|||Nerviosismo|||Unnerve
+10|||Competitivo|||Defiant
+10|||Flaqueza|||Defeatist
+10|||Cuerpo Maldito|||Cursed Body
+10|||Respondón|||Contrary
+10|||Potencia Bruta|||Sheer Force
+10|||Alma Cura|||Healer
+10|||Compiescolta|||Friend Guard
+10|||Compensación|||Multiscale
+10|||Metal Pesado|||Heavy Metal
+10|||Armadura Frágil|||Weak Armor
+10|||Metal Liviano|||Light Metal
+10|||Cosecha|||Harvest
+10|||Telepatía|||Telepathy
+10|||Ímpetu Ardiente|||Flare Boost
+10|||Ímpetu Tóxico|||Toxic Boost
+10|||Veleta|||Moody
+10|||Funda|||Overcoat
+10|||Regeneración|||Regenerator
+10|||Toque Tóxico|||Poison Touch
+10|||Ímpetu Arena|||Sand Rush
+10|||Piel Milagro|||Wonder Skin
+10|||Cálculo Final|||Analytic
+10|||Sacapecho|||Big Pecks
+10|||Ilusión|||Illusion
+10|||Impostor|||Imposter
+10|||Momia|||Mummy
+10|||Allanamiento|||Infiltrator
+10|||Autoestima|||Moxie
+10|||Justiciero|||Justified
+10|||Cobardía|||Rattled
+10|||Espejo Mágico|||Magic Bounce
+10|||Herbívoro|||Sap Sipper
+10|||Bromista|||Prankster
+10|||Modo Daruma|||Zen Mode
+10|||Punta Acero|||Iron Barbs
+10|||Poder Arena|||Sand Force
+10|||Tinovictoria|||Victory Star
+10|||Velo Aroma|||Aroma Veil
+10|||Turbollama|||Turboblaze
+10|||Terravoltaje|||Teravolt
+10|||Velo Flor|||Flower Veil
+10|||Carrillo|||Cheek Pouch
+10|||Prestidigitador|||Magician
+10|||Mutatipo|||Protean
+10|||Pelaje Recio|||Fur Coat
+10|||Tenacidad|||Competitive
+10|||Antibalas|||Bulletproof
+10|||Piel Helada|||Refrigerate
+10|||Mandíbula Fuerte|||Strong Jaw
+10|||Velo Dulce|||Sweet Veil
+10|||Cambio Táctico|||Stance Change
+10|||Alas Vendaval|||Gale Wings
+10|||Megadisparador|||Mega Launcher
+10|||Manto Frondoso|||Grass Pelt
+10|||Simbiosis|||Symbiosis
+10|||Garra Dura|||Tough Claws
+10|||Baba|||Gooey
+10|||Piel Feérica|||Pixilate
+10|||Piel Celeste|||Aerilate
+10|||Aura Oscura|||Dark Aura
+10|||Amor Filial|||Parental Bond
+10|||Aura Feérica|||Fairy Aura
+10|||Rompeaura|||Aura Break
+10|||Mar del Albor|||Primordial Sea
+10|||Tierra del Ocaso|||Desolate Land
+10|||Ráfaga Delta|||Delta Stream
+10|||Firmeza|||Stamina
+10|||Retirada|||Emergency Exit
+10|||Huida|||Wimp Out
+10|||Ensañamiento|||Merciless
+10|||Hidrorrefuerzo|||Water Compaction
+10|||Vigilante|||Stakeout
+10|||Pompa|||Water Bubble
+10|||Escudo Limitado|||Shields Down
+10|||Cólera|||Berserk
+10|||Quitanieves|||Slush Rush
+10|||Remoto|||Long Reach
+10|||Acero Templado|||Steelworker
 10|||Primer Auxilio|||Triage
-10|||Voz Fluida|||Voz Líquida
-10|||Piel Eléctrica|||Pele Galvânica
-10|||Banco|||Cardume
-10|||Cola Surf|||Surfe de Cauda
-10|||Disfraz|||Disfarce
-10|||Agrupamiento|||Construção de Enxame
-10|||Corrosión|||Corrosão
-10|||Fuerte Afecto|||Sincronia de Combate
-10|||Letargo Perenne|||Sono Comatoso
-10|||Revés|||Revés
-10|||Regia Presencia|||Presença Majestosa
-10|||Batería|||Bateria
-10|||Peluche|||Fofura
-10|||Pareja de Baile|||Dançarina
-10|||Coránima|||Coração de Alma
-10|||Cuerpo Vívido|||Corpo Deslumbrante
-10|||Receptor|||Receptor
-10|||Rizos Rebeldes|||Cachos Embaraçados
-10|||Reacción Química|||Força Química
-10|||Sistema Alfa|||Sistema RKS
-10|||Ultraimpulso|||Ultraimpulso
-10|||Electrogénesis|||Eletrogênese
-10|||Nebulogénesis|||Nebulogênese
-10|||Guardia Metálica|||Corpo Metálico
-10|||Herbogénesis|||Herbogênese
-10|||Psicogénesis|||Psicogênese
-10|||Armadura Prisma|||Armadura de Prisma
-10|||Guardia Espectro|||Escudo de Sombra
-10|||Fuerza Cerebral|||Neuroforça
-10|||Espada Indómita|||Espada Intrépida
-10|||Escudo Recio|||Escudo Destemido
-10|||Pelusa|||Maciez
-10|||Líbero|||Líbero
-10|||Recogebolas|||Busca-Bolas
-10|||Acérrimo|||Obstinado
-10|||Hélice Caudal|||Hélice de Propulsão
-10|||Coraza Reflejo|||Armadura de Espelho
-10|||Tragamisil|||Gole de Míssil
-10|||Combustible|||Motor a Vapor
-10|||Punk Rock|||Punk pedra
-10|||Maduración|||Maturação
-10|||Expulsarena|||Cuspir Areia
-10|||Escama de Hielo|||Escama de Gelo
-10|||Cara de Hielo|||Face de Gelo
-10|||Mimetismo|||Mimetismo
-10|||Fuente Energía|||Transistor
-10|||Antibarrera|||Quebra-Telas
-10|||Alma Acerada|||Espírito de Aço
-10|||Alma Errante|||Espírito Errante
-10|||Cuerpo Mortal|||Corpo Perecível
-10|||Monotema|||Tática de Gorila
-10|||Mutapetito|||Fome de Mudança
-10|||Gas Reactivo|||Gás Neutralizante
-10|||Velo Pastel|||Véu Pastel
-10|||Mano Rápida|||Mão Oca
+10|||Voz Fluida|||Liquid Voice
+10|||Piel Eléctrica|||Galvanize
+10|||Banco|||Schooling
+10|||Cola Surf|||Surge Surfer
+10|||Disfraz|||Disguise
+10|||Agrupamiento|||Power Construct
+10|||Corrosión|||Corrosion
+10|||Fuerte Afecto|||Battle Bond
+10|||Letargo Perenne|||Comatose
+10|||Revés|||Innards Out
+10|||Regia Presencia|||Queenly Majesty
+10|||Batería|||Battery
+10|||Peluche|||Fluffy
+10|||Pareja de Baile|||Dancer
+10|||Coránima|||Soul-Heart
+10|||Cuerpo Vívido|||Dazzling
+10|||Receptor|||Receiver
+10|||Rizos Rebeldes|||Tangling Hair
+10|||Reacción Química|||Power of Alchemy
+10|||Sistema Alfa|||RKS System
+10|||Ultraimpulso|||Beast Boost
+10|||Electrogénesis|||Electric Surge
+10|||Nebulogénesis|||Misty Surge
+10|||Guardia Metálica|||Full Metal Body
+10|||Herbogénesis|||Grassy Surge
+10|||Psicogénesis|||Psychic Surge
+10|||Armadura Prisma|||Prism Armor
+10|||Guardia Espectro|||Shadow Shield
+10|||Fuerza Cerebral|||Neuroforce
+10|||Espada Indómita|||Intrepid Sword
+10|||Escudo Recio|||Dauntless Shield
+10|||Pelusa|||Cotton Down
+10|||Líbero|||Libero
+10|||Recogebolas|||Ball Fetch
+10|||Acérrimo|||Stalwart
+10|||Hélice Caudal|||Propeller Tail
+10|||Coraza Reflejo|||Mirror Armor
+10|||Tragamisil|||Gulp Missile
+10|||Combustible|||Steam Engine
+10|||Punk Rock|||Punk Rock
+10|||Maduración|||Ripen
+10|||Expulsarena|||Sand Spit
+10|||Escama de Hielo|||Ice Scales
+10|||Cara de Hielo|||Ice Face
+10|||Mimetismo|||Mimicry
+10|||Fuente Energía|||Power Spot
+10|||Antibarrera|||Screen Cleaner
+10|||Alma Acerada|||Steely Spirit
+10|||Alma Errante|||Wandering Spirit
+10|||Cuerpo Mortal|||Perish Body
+10|||Monotema|||Gorilla Tactics
+10|||Mutapetito|||Hunger Switch
+10|||Gas Reactivo|||Neutralizing Gas
+10|||Velo Pastel|||Pastel Veil
+10|||Mano Rápida|||Quick Draw
 10|||Transistor|||Transistor
-10|||Puño Invisible|||Punho Invisível
-10|||Medicina Extraña|||Medicina Curiosa
-10|||Mandíbula dragón|||Mandíbula de Dragão
-10|||Relincho Blanco|||Vigor Branco
-10|||Relincho Negro|||Vigor Negro
-10|||Unidad Ecuestre|||Unidade Equestre
-10|||Coraza Ira|||Armadura da Ira
-10|||Comandar|||Comandante
-10|||Cola Armadura|||Armadura de Cauda
-10|||Abalorio Debacle|||Amuleto da Ruína
-10|||Unísono|||Sincronia Costeira
-10|||Rumia|||Ruminação
-10|||Dinamo|||Eletromorfose
-10|||Geofagia|||Energia da Terra
-10|||Perro Guardíán|||Cão de Guarda
-10|||Cuerpo Áureo|||Corpo de Ouro
-10|||Motor Hadrónico|||Motor de Hádrons
-10|||Olor Persistente|||Odor Persistente
-10|||Oportunista|||Oportunista
-10|||Poder Fúngico|||Poder de Fungo
-10|||Sal Purificadora|||Sal Purificador
-10|||Paleosíntesis|||Paleossíntese
-10|||Latido Oricalco|||Pulso de Oricalco
-10|||Carga Cuark|||Carga Quark
-10|||Cortante|||Nitidez
-10|||Transportarrocas|||Transportador de Pedras
-10|||Disemillar|||Semeadora
-10|||General Supremo|||Supremo Geral
-10|||Espada Debacle|||Espada da Ruína
-10|||Tablilla Debacle|||Tábua da Ruína
-10|||Termoconversión|||Energia Térmica
-10|||Capa Tóxica|||Capa Tóxica
-10|||Caldero Debacle|||Caldeirão da Ruína
-10|||Surcavientos|||Cortador de Vento
-10|||Energía Eólica|||Energia de Vento
-10|||Cuerpo Horneado|||Corpo Assado
-10|||Cambio Heroico|||Mudança de Herói
-10|||Hospitalidad|||Hospitalidade
-10|||Cadena Tóxica|||Corrente Tóxica
-10|||Néctar dulce|||Néctar Doce
-10|||Evocarrecuerdos|||Evocar Memórias
+10|||Puño Invisible|||Unseen Fist
+10|||Medicina Extraña|||Curious Medicine
+10|||Mandíbula dragón|||Dragon’s Maw
+10|||Relincho Blanco|||Chilling Neigh
+10|||Relincho Negro|||Grim Neigh
+10|||Unidad Ecuestre|||As One
+10|||Coraza Ira|||Anger Shell
+10|||Comandar|||Commander
+10|||Cola Armadura|||Armor Tail
+10|||Abalorio Debacle|||Beads of Ruin
+10|||Unísono|||Costar
+10|||Rumia|||Cud Chew
+10|||Dinamo|||Electromorphosis
+10|||Geofagia|||Earth Eater
+10|||Perro Guardíán|||Guard Dog
+10|||Cuerpo Áureo|||Good as Gold
+10|||Motor Hadrónico|||Hadron Engine
+10|||Olor Persistente|||Lingering Aroma
+10|||Oportunista|||Opportunist
+10|||Poder Fúngico|||Mycelium Might
+10|||Sal Purificadora|||Purifying Salt
+10|||Paleosíntesis|||Protosynthesis
+10|||Latido Oricalco|||Orichalcum Pulse
+10|||Carga Cuark|||Quark Drive
+10|||Cortante|||Sharpness
+10|||Transportarrocas|||Rocky Payload
+10|||Disemillar|||Seed Sower
+10|||General Supremo|||Supreme Overlord
+10|||Espada Debacle|||Sword of Ruin
+10|||Tablilla Debacle|||Tablets of Ruin
+10|||Termoconversión|||Thermal Exchange
+10|||Capa Tóxica|||Toxic Debris
+10|||Caldero Debacle|||Vessel of Ruin
+10|||Surcavientos|||Wind Rider
+10|||Energía Eólica|||Wind Power
+10|||Cuerpo Horneado|||Well-Baked Body
+10|||Cambio Heroico|||Zero to Hero
+10|||Hospitalidad|||Hospitality
+10|||Cadena Tóxica|||Toxic Chain
+10|||Néctar dulce|||Supersweet Syrup
+10|||Evocarrecuerdos|||Embody Aspect
 10|||Ojo Mental|||Olhar da Mente
-10|||Teracambio|||Tera-Mudança
-10|||Sobrecarga|||Sobrecarga
-10|||Títere Tóxico|||Fantoche Tóxico
-10|||Teracaparazón|||Teracapa
-10|||Coleóptero|||Coleóptero
-10|||Poder Sabio|||Poder Sábio
-10|||Espanto|||Espanto
-10|||Piel Tétrica|||Pele Tétrica
+10|||Teracambio|||Tera Shift
+10|||Sobrecarga|||Overcharge
+10|||Títere Tóxico|||Poison Puppeteer
+10|||Teracaparazón|||Tera Shell
+10|||Coleóptero|||Coleoptera
+10|||Poder Sabio|||Sage Power
+10|||Espanto|||Fright
+10|||Piel Tétrica|||Macabre Skin
 10|||Iceberg|||Iceberg
 10|||Inflamable|||Inflamável
 10|||Albino|||Albino
-10|||Piel Herbácea|||Pele Herbácea
-10|||Floración|||Floração
-10|||Realeza|||Realeza
-10|||Acometida|||Investida
-10|||Poder Gélido|||Poder Gélido
+10|||Piel Herbácea|||Grassy Skin
+10|||Floración|||Blooming
+10|||Realeza|||Royalty
+10|||Acometida|||Onslaught
+10|||Poder Gélido|||Frost Power
 10|||Tintineo|||Tilintar
-10|||Camorrista|||Briguento
+10|||Camorrista|||Brawler
 10|||Silvano|||Silvestre
-10|||Raíz robusta|||Raiz Robusta
+10|||Raíz robusta|||Sturdy Root
 10|||Toque Ardiente|||Toque Ardente
 19|||Pueblo Paleta|||Cidade de Pallet
 19|||Ruta 1|||Rota 1
