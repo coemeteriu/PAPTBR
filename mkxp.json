@@ -13,7 +13,7 @@
     // Note that the "Game Title" defined in RPG Maker XP should not have
     // accented characters in it, which is why this property is useful.
     //
-    "windowTitle": "Pokémon Añil 4.0",
+    "windowTitle": "Pokémon Azul 4.0.3",
 
     // The game window's width and height, in pixels.
     //
@@ -50,7 +50,7 @@
     // will be the "Game Title" as defined in RPG Maker XP. It should not
     // contain any accented characters.
     //
-    // "dataPathApp": "Pokemon Essentials v21",
+    "dataPathApp": "Pokemon Anil",
 
     // If defined, the game's save folder goes into a folder with this name (in
     // C:\Users\USERNAME\AppData\Roaming). If undefined, the game's save folder

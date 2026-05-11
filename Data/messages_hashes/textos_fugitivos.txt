@@ -1,0 +1,7 @@
+0|||Ver/definir otros efectos que aplican en todo el campo de batalla.|||
+0|||Necesitas al menos \c[1]{2} {3}\c[0],\n para usar el \c[1]{4}\c[0] fuera de combate|||
+0|||Guardar en Partida 7|||
+0|||<c3=6CA8D8,2058A5>Sério<c3=F8F8F8,4A70AF>|||
+0|||Guardar en Partida 6|||
+0|||{1} está fazendo o possível para acompanhar {2}.|||
+0|||Caça-Insetos Antón|||

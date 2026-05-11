@@ -1,0 +1,5 @@
+id=jogador-Wallace
+nome=Wallace
+char=MATON
+coop_partial=1
+coop_total=0
